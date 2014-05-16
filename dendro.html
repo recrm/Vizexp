@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Chum visualization</title>
+        <script src="http://d3js.org/d3.v3.min.js" charset="UTF-8" ></script>
+        <script src="js/share.js" charset="UTF-8" ></script>
+        <script src="js/dendro.js" charset="UTF-8" ></script>
+        <link href="css/share.css" type="text/css" rel="stylesheet" />
+        <link href="css/dendro.css" type="text/css" rel="stylesheet" />
+    </head>
+    <body onload="eventLoad()">
+        <h1>CHum Dendrogram Viewer</h1>
+        <svg id="Dendro"></svg>
+        <form id="control" autocomplete="off">
+            <input id="check" type="checkbox">year?
+            <input id="reset" type="button" value="Clear">
+        </form>
+        <svg id="Hist"></svg>
+        <div id="info"></div>
+        <div id="papers"></div>
+    </body>
+</html>

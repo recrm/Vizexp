@@ -1,0 +1,1609 @@
+/home/ryan/Local/CHUM/408/Introducing Computational Techniques in Dialectometry.txt
+/home/ryan/Local/CHUM/408/Neighbours or Enemies_ Competing Variants Causing Differences in Transitional Dialects.txt
+/home/ryan/Local/CHUM/408/Profile-Based Linguistic Uniformity as a Generic Method for Comparing Language Varieties.txt
+/home/ryan/Local/CHUM/408/Graduate Education in Humanities Computing.txt
+/home/ryan/Local/CHUM/408/Phonetic Alignment and Similarity.txt
+/home/ryan/Local/CHUM/408/The Use of the Almeida-Braun System in the Measurement of Dutch Dialect Distances.txt
+/home/ryan/Local/CHUM/408/Lexical Distance in LAMSAS.txt
+/home/ryan/Local/CHUM/408/Norwegian Dialects Examined Perceptually and Acoustically.txt
+/home/ryan/Local/CHUM/289/Recent publications.txt
+/home/ryan/Local/CHUM/289/Book reviews.txt
+/home/ryan/Local/CHUM/289/News and notes.txt
+/home/ryan/Local/CHUM/289/Books received.txt
+/home/ryan/Local/CHUM/289/Diffusion of computer utilization among sociology instructors.txt
+/home/ryan/Local/CHUM/289/Software review.txt
+/home/ryan/Local/CHUM/289/The use of the computer in plotting the geographical distribution of dialect items.txt
+/home/ryan/Local/CHUM/289/Die ReiheIndices Verborum zum Altdeutschen Schrifttum_ Ein Forschungsbericht.txt
+/home/ryan/Local/CHUM/289/Meetings announced.txt
+/home/ryan/Local/CHUM/289/Summer institutes announced.txt
+/home/ryan/Local/CHUM/289/Romance etymology_ A computerized model.txt
+/home/ryan/Local/CHUM/289/Literary texts in electronic storage_ The editorial potential.txt
+/home/ryan/Local/CHUM/289/A special purpose digital system for musical instruction, composition, and performance.txt
+/home/ryan/Local/CHUM/289/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/289/Call for papers.txt
+/home/ryan/Local/CHUM/336/Computerized correction of phonographic errors.txt
+/home/ryan/Local/CHUM/336/Segmentation of indus texts_ A dynamic programming approach.txt
+/home/ryan/Local/CHUM/336/A vote of thanks.txt
+/home/ryan/Local/CHUM/336/Le Trésor Général des langes et parlers Français de l'Institut National de la Langue Française (I.Na.L.F.).txt
+/home/ryan/Local/CHUM/336/Editorial.txt
+/home/ryan/Local/CHUM/336/Book Reviews.txt
+/home/ryan/Local/CHUM/336/The stylo-statistical method of literary analysis.txt
+/home/ryan/Local/CHUM/336/Computers and writing_ Casting a broader net with theory and research.txt
+/home/ryan/Local/CHUM/336/The authorship of Acts I and II of Pericles_ a new approach using first words of speeches.txt
+/home/ryan/Local/CHUM/395/Lexicography and Disambiguation_ The Size of the Problem.txt
+/home/ryan/Local/CHUM/395/Senseval_ The CL Research Experience.txt
+/home/ryan/Local/CHUM/395/Word Sense Disambiguation Using the Classification Information Model.txt
+/home/ryan/Local/CHUM/395/GINGER II_ An Example-Driven Word Sense Disambiguator.txt
+/home/ryan/Local/CHUM/395/Peeling an Onion_ The Lexicographer's Experience ofManual Sense-Tagging.txt
+/home/ryan/Local/CHUM/395/Hierarchical Decision Lists for Word Sense Disambiguation.txt
+/home/ryan/Local/CHUM/395/Tagger Evaluation Given Hierarchical Tag Sets.txt
+/home/ryan/Local/CHUM/395/Word Sense Disambiguation Using Automatically Acquired Verbal Preferences.txt
+/home/ryan/Local/CHUM/395/Memory-Based Word Sense Disambiguation.txt
+/home/ryan/Local/CHUM/395/Word Sense Disambiguation with a Similarity-Smoothed Case Library.txt
+/home/ryan/Local/CHUM/395/Large Scale WSD Using Learning Applied to SENSEVAL.txt
+/home/ryan/Local/CHUM/395/A Topical-Local Classifier for Word Sense Identification.txt
+/home/ryan/Local/CHUM/395/Word Sense Disambiguation by Information Filtering and Extraction.txt
+/home/ryan/Local/CHUM/395/Simple Word Sense Discrimination.txt
+/home/ryan/Local/CHUM/395/Introduction to the Special Issue on SENSEVAL.txt
+/home/ryan/Local/CHUM/395/Combining Supervised and Unsupervised Lexical Knowledge Methods for Word Sense Disambiguation.txt
+/home/ryan/Local/CHUM/395/Framework and Results for French.txt
+/home/ryan/Local/CHUM/395/Selecting Decomposable Models for Word-Sense Disambiguation_ TheGrling-Sdm System.txt
+/home/ryan/Local/CHUM/395/Senseval-Romanseval_ The Framework for Italian.txt
+/home/ryan/Local/CHUM/395/Framework and Results for English SENSEVAL.txt
+/home/ryan/Local/CHUM/325/Machine translation.txt
+/home/ryan/Local/CHUM/325/Software reviews.txt
+/home/ryan/Local/CHUM/325/The “New” logics and natural language processing.txt
+/home/ryan/Local/CHUM/325/Computers, bibliography, and foreign language typography.txt
+/home/ryan/Local/CHUM/325/An investigation of Morton's method to distinguish Elizabethan playwrights.txt
+/home/ryan/Local/CHUM/325/Book reviews.txt
+/home/ryan/Local/CHUM/325/Computational lexicography.txt
+/home/ryan/Local/CHUM/325/The writer and the computer.txt
+/home/ryan/Local/CHUM/325/Artificial intelligence and the humanities.txt
+/home/ryan/Local/CHUM/325/Human language and computers.txt
+/home/ryan/Local/CHUM/325/Terminology_ Teaming upHomo Faber andHomo Linguisticus.txt
+/home/ryan/Local/CHUM/369/The TEI_ History, goals, and future.txt
+/home/ryan/Local/CHUM/369/The TEI header and the documentation of electronic texts.txt
+/home/ryan/Local/CHUM/369/What is SGML and how does it help_.txt
+/home/ryan/Local/CHUM/369/Introduction.txt
+/home/ryan/Local/CHUM/369/Character representation.txt
+/home/ryan/Local/CHUM/369/Practical considerations in the use of TEI headers in a large corpus.txt
+/home/ryan/Local/CHUM/369/The design of the TEI encoding scheme.txt
+/home/ryan/Local/CHUM/369/Preface.txt
+/home/ryan/Local/CHUM/374/New words from old_ A formalism for word-formation.txt
+/home/ryan/Local/CHUM/374/Electronic literacy, critical pedagogy, and collaboration_ A case for cyborg writing.txt
+/home/ryan/Local/CHUM/374/Book reviews.txt
+/home/ryan/Local/CHUM/374/Using latent semantic indexing for multilanguage information retrieval.txt
+/home/ryan/Local/CHUM/374/Shakespeare vs. fletcher_ A stylometric analysis by radial basis functions.txt
+/home/ryan/Local/CHUM/330/Erratum.txt
+/home/ryan/Local/CHUM/330/Sarrasine revisited_ A perspective in text-analysis.txt
+/home/ryan/Local/CHUM/330/The automatic phoneticization of the French language.txt
+/home/ryan/Local/CHUM/330/Contemporary literary lexicology and terminology_ An inventory.txt
+/home/ryan/Local/CHUM/330/Prétraitement Linguistique en Synthèse Vocale_ Exemple de la Transcription Orthographique-Phonétique en Allemand.txt
+/home/ryan/Local/CHUM/330/Editor's preface.txt
+/home/ryan/Local/CHUM/330/Le MIS mathématique, informatique, statistique_ un Laboratoire au service de la Recherche Littéraire.txt
+/home/ryan/Local/CHUM/330/Diversity index and entropy as measures of lexical richness.txt
+/home/ryan/Local/CHUM/330/Artificial intelligence in speech understanding_ Two applications at C.R.I.N..txt
+/home/ryan/Local/CHUM/330/L'U.R.L.9_ Etude Statistique des Textes Littéraires.txt
+/home/ryan/Local/CHUM/330/Book review.txt
+/home/ryan/Local/CHUM/330/The training of artists in computer graphics.txt
+/home/ryan/Local/CHUM/330/A new pedagogical approach to the study of texts with a microcomputer.txt
+/home/ryan/Local/CHUM/330/A progress report from groupe “Paragraphe”.txt
+/home/ryan/Local/CHUM/330/Laboratoire d'Analyse Relationnelle des Textes_ Présentation de Travaux.txt
+/home/ryan/Local/CHUM/330/Automatic transcription of sixteenth century musical notations.txt
+/home/ryan/Local/CHUM/401/Instructions for Authors.txt
+/home/ryan/Local/CHUM/401/The ACH Page.txt
+/home/ryan/Local/CHUM/401/Introduction to the Special Issue on Multi-Lingual Information Management.txt
+/home/ryan/Local/CHUM/401/Japanese-English Cross-Language Information Retrieval_ Exploration of Query Translation and Transliteration.txt
+/home/ryan/Local/CHUM/401/Contents of Volume 35.txt
+/home/ryan/Local/CHUM/401/A Method for Supporting Document Selection in Cross-language Information Retrieval and its Evaluation.txt
+/home/ryan/Local/CHUM/401/A Framework for Cross-Language Information Access_ Application to English and Japanese.txt
+/home/ryan/Local/CHUM/401/Index of Key Words of Volume 35.txt
+/home/ryan/Local/CHUM/334/Software reviews.txt
+/home/ryan/Local/CHUM/334/A computer-based system for the organization and processing of site-location and boundary data.txt
+/home/ryan/Local/CHUM/334/Style and structure in the Middle English poemCleanness.txt
+/home/ryan/Local/CHUM/334/Composition students online_ Database searching in the undergraduate research paper course.txt
+/home/ryan/Local/CHUM/334/Processing of Japanese Kanji on a microcomputer.txt
+/home/ryan/Local/CHUM/334/Book review.txt
+/home/ryan/Local/CHUM/278/Reviews.txt
+/home/ryan/Local/CHUM/278/Directory of scholars active.txt
+/home/ryan/Local/CHUM/278/FLOW_ A teaching language for computer programming in the humanities.txt
+/home/ryan/Local/CHUM/278/Narrow phonetic transcription on the computer_ Taking the phone off the hook.txt
+/home/ryan/Local/CHUM/278/Meetings announced.txt
+/home/ryan/Local/CHUM/278/The old man and the sea and the computer.txt
+/home/ryan/Local/CHUM/278/The computer in determining stemmatic relationships.txt
+/home/ryan/Local/CHUM/278/Recent conferences in Italy.txt
+/home/ryan/Local/CHUM/278/Automated sentence analysis for language instruction.txt
+/home/ryan/Local/CHUM/278/Call for papers.txt
+/home/ryan/Local/CHUM/305/Letter from Warsaw.txt
+/home/ryan/Local/CHUM/305/Announcement.txt
+/home/ryan/Local/CHUM/305/On a vocabulary data base.txt
+/home/ryan/Local/CHUM/305/Book reviews.txt
+/home/ryan/Local/CHUM/305/A multi-language multi-text concordance as an aid in manuscript study.txt
+/home/ryan/Local/CHUM/305/Computer-implemented music analysis and the copyright law.txt
+/home/ryan/Local/CHUM/305/Music analysis by computer_ A conference report.txt
+/home/ryan/Local/CHUM/305/Concordances and indices to middle high German.txt
+/home/ryan/Local/CHUM/305/An application of component analysis to the study of South Indian sculptures.txt
+/home/ryan/Local/CHUM/263/Reviews.txt
+/home/ryan/Local/CHUM/263/“The dictionary of old english”_ A progress report.txt
+/home/ryan/Local/CHUM/263/Directory of scholars active.txt
+/home/ryan/Local/CHUM/263/Style, precept, personality_ A test case (Thomas Sprat, 1635–1713).txt
+/home/ryan/Local/CHUM/263/Meetings announced.txt
+/home/ryan/Local/CHUM/263/Summer institutes announced.txt
+/home/ryan/Local/CHUM/263/Call for papers.txt
+/home/ryan/Local/CHUM/249/Recent publications.txt
+/home/ryan/Local/CHUM/249/RespiceFinem and theTantum Quantum_ An essay review of computational stylistics for 1967–1968.txt
+/home/ryan/Local/CHUM/249/The impact of computers on archaeological theory_ An appraisal and projection.txt
+/home/ryan/Local/CHUM/249/Historical investigation and automatic data processing equipment.txt
+/home/ryan/Local/CHUM/249/News and notes.txt
+/home/ryan/Local/CHUM/249/Computers and the classics.txt
+/home/ryan/Local/CHUM/249/Current computing activity in Scandinavia related to language and literature research.txt
+/home/ryan/Local/CHUM/249/Optical readers.txt
+/home/ryan/Local/CHUM/249/Meetings announced.txt
+/home/ryan/Local/CHUM/249/Computer instruction for scholars in the humanities.txt
+/home/ryan/Local/CHUM/249/Humanities computing activities in Italy.txt
+/home/ryan/Local/CHUM/352/Technical review.txt
+/home/ryan/Local/CHUM/352/Book reviews.txt
+/home/ryan/Local/CHUM/352/A creative arts approach to computer programming.txt
+/home/ryan/Local/CHUM/352/On the benefits of interrelating computer science and the humanities_ The case of metaphor.txt
+/home/ryan/Local/CHUM/352/New tool for an ancient art_ The computer and music.txt
+/home/ryan/Local/CHUM/352/Introduction.txt
+/home/ryan/Local/CHUM/352/“Minds and machines” for humanities majors_ A liberal arts course in computers and cognition.txt
+/home/ryan/Local/CHUM/352/The role and design of computer studies in a research-oriented translation program.txt
+/home/ryan/Local/CHUM/352/An interdisciplinary bibliography for computers and the humanities courses.txt
+/home/ryan/Local/CHUM/352/Using a morphological analyzer to teach theoretical morphology.txt
+/home/ryan/Local/CHUM/291/Recent publications.txt
+/home/ryan/Local/CHUM/291/Natural themes in Soviet school history textbooks.txt
+/home/ryan/Local/CHUM/291/Computer application of a syntactic density measure.txt
+/home/ryan/Local/CHUM/291/Reports.txt
+/home/ryan/Local/CHUM/291/Letters to the editor.txt
+/home/ryan/Local/CHUM/291/Book reviews.txt
+/home/ryan/Local/CHUM/291/Software review.txt
+/home/ryan/Local/CHUM/291/On the measurement of alliteration in poetry.txt
+/home/ryan/Local/CHUM/291/Meetings announced.txt
+/home/ryan/Local/CHUM/291/Summer institutes announced.txt
+/home/ryan/Local/CHUM/291/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/291/Call for papers.txt
+/home/ryan/Local/CHUM/309/Automated concordances and word indexes_ The fifties.txt
+/home/ryan/Local/CHUM/309/Announcement.txt
+/home/ryan/Local/CHUM/309/Book reviews.txt
+/home/ryan/Local/CHUM/309/Prolegomena to pictorial concordances.txt
+/home/ryan/Local/CHUM/309/Abstracts and brief reports.txt
+/home/ryan/Local/CHUM/402/The Place of Images in a World of Text.txt
+/home/ryan/Local/CHUM/402/Instructions for Authors.txt
+/home/ryan/Local/CHUM/402/Digital Facsimiles_ Reading the William Blake Archive.txt
+/home/ryan/Local/CHUM/402/Dialogue and Interpretation at the Interface of Man and Machine. Reflections on Textuality and a Proposal for an Experiment in Machine Reading.txt
+/home/ryan/Local/CHUM/402/The Reappearances of St. Basil the Great in British Library MS Cotton Otho B. x.txt
+/home/ryan/Local/CHUM/402/Text-image Coupling for Editing Literary Sources.txt
+/home/ryan/Local/CHUM/402/Select Resources for Image-based Humanities Computing.txt
+/home/ryan/Local/CHUM/402/The Job Market for Humanities Computing.txt
+/home/ryan/Local/CHUM/402/Editor's Introduction_ Image-Based Humanities Computing.txt
+/home/ryan/Local/CHUM/324/Intelligent knowledge-based systems in archaeology_ A computerized simulation of reasoning by means of an expert system.txt
+/home/ryan/Local/CHUM/324/An investigation of Morton's method to distinguish Elizabethan playwrights.txt
+/home/ryan/Local/CHUM/324/Book reviews.txt
+/home/ryan/Local/CHUM/324/Word frequency and text type_ Some observations based on the LOB corpus of British English texts.txt
+/home/ryan/Local/CHUM/324/Software review.txt
+/home/ryan/Local/CHUM/324/Datcol 4_ Interactive data collector for historians.txt
+/home/ryan/Local/CHUM/251/Reviews.txt
+/home/ryan/Local/CHUM/251/Recent publications.txt
+/home/ryan/Local/CHUM/251/A computer-assisted study of a philosophical text.txt
+/home/ryan/Local/CHUM/251/The general inquirer_ Useful or not_.txt
+/home/ryan/Local/CHUM/251/Innovation in historical research_ A computer approach.txt
+/home/ryan/Local/CHUM/251/New courses established.txt
+/home/ryan/Local/CHUM/251/News and notes.txt
+/home/ryan/Local/CHUM/251/Meeting announced.txt
+/home/ryan/Local/CHUM/251/Computers and the 16th-century Chanson a pilot project at the University of Chicago.txt
+/home/ryan/Local/CHUM/251/The linguistic analysis of spanish colonial documents.txt
+/home/ryan/Local/CHUM/251/Computer-aided humanities research at the University of Wisconsin.txt
+/home/ryan/Local/CHUM/251/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/251/The Pennsylvania State University conference on bibliography_ A report.txt
+/home/ryan/Local/CHUM/413/Pitfalls in Corpus Research.txt
+/home/ryan/Local/CHUM/413/Multiple Heuristics and Their Combination for Automatic WordNet Mapping.txt
+/home/ryan/Local/CHUM/413/Stochastic Models for Automatic Diacritics Generation of Arabic Names.txt
+/home/ryan/Local/CHUM/413/A Stylometric Analysis of Yaşar Kemal’s İnce Memed Tetralogy.txt
+/home/ryan/Local/CHUM/413/Evaluation of Linguistic Features for Word Sense Disambiguation with Self-Organized Document Maps.txt
+/home/ryan/Local/CHUM/413/Automatic Acquisition and Expansion of Hypernym Links.txt
+/home/ryan/Local/CHUM/413/Experimenting with a Question Answering System for the Arabic Language.txt
+/home/ryan/Local/CHUM/241/Reviews.txt
+/home/ryan/Local/CHUM/241/Recent publications.txt
+/home/ryan/Local/CHUM/241/The new center for research at the University of Pennsylvania.txt
+/home/ryan/Local/CHUM/241/Literary works in machine-readable form.txt
+/home/ryan/Local/CHUM/241/News and notes.txt
+/home/ryan/Local/CHUM/241/The computer and the historian—Some tentative beginnings.txt
+/home/ryan/Local/CHUM/241/RILM.txt
+/home/ryan/Local/CHUM/241/The computer and Plato's Seventh letter.txt
+/home/ryan/Local/CHUM/241/Meetings announced.txt
+/home/ryan/Local/CHUM/241/Additional programs to solve humanistic problems.txt
+/home/ryan/Local/CHUM/241/The Thomas Mann project_ A progress report.txt
+/home/ryan/Local/CHUM/293/Book reviews.txt
+/home/ryan/Local/CHUM/293/Computer-aided usage ‘Labeling’ in a dictionary.txt
+/home/ryan/Local/CHUM/293/Annual bibliography for 1976 and supplement to preceding years.txt
+/home/ryan/Local/CHUM/293/A computer-oriented system for music printing.txt
+/home/ryan/Local/CHUM/293/Iberochange_ A program to simulate systematic sound change in Ibero-Romance.txt
+/home/ryan/Local/CHUM/267/Reviews.txt
+/home/ryan/Local/CHUM/267/Recent publications.txt
+/home/ryan/Local/CHUM/267/The computer as an instructional device for the arabic writing system.txt
+/home/ryan/Local/CHUM/267/The World Shakespeare Congress_ A report.txt
+/home/ryan/Local/CHUM/267/Annual bibliography for 1971.txt
+/home/ryan/Local/CHUM/267/SCAN_ A simple conversational programming language for text analysis.txt
+/home/ryan/Local/CHUM/267/Letter to the editor_ Shakespeare concordance.txt
+/home/ryan/Local/CHUM/267/News and notes.txt
+/home/ryan/Local/CHUM/267/Seminar.txt
+/home/ryan/Local/CHUM/267/Meetings announced.txt
+/home/ryan/Local/CHUM/267/EYEBALL_ A computer program for description of style.txt
+/home/ryan/Local/CHUM/267/Computerized lemmatization without the use of a dictionary_ A case study from Swedish Lexicology.txt
+/home/ryan/Local/CHUM/267/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/267/Call for papers.txt
+/home/ryan/Local/CHUM/292/Directory of scholars active.txt
+/home/ryan/Local/CHUM/292/Problems of representation in musical computing.txt
+/home/ryan/Local/CHUM/292/Book reviews.txt
+/home/ryan/Local/CHUM/292/Robertson Davies_ The tory mode.txt
+/home/ryan/Local/CHUM/292/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/285/Reviews.txt
+/home/ryan/Local/CHUM/285/“The Darms project”_ A status report.txt
+/home/ryan/Local/CHUM/285/Composing by computer.txt
+/home/ryan/Local/CHUM/285/News and notes.txt
+/home/ryan/Local/CHUM/285/The use of function word frequencies as indicators of style.txt
+/home/ryan/Local/CHUM/285/The data bank of the American Bibliographical Center-Clio Press.txt
+/home/ryan/Local/CHUM/285/Meetings announced.txt
+/home/ryan/Local/CHUM/285/A Shakespeare dictionary (SHAD)_ Some preliminaries for a semantic description.txt
+/home/ryan/Local/CHUM/285/Summer institutes announced.txt
+/home/ryan/Local/CHUM/285/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/285/Call for papers.txt
+/home/ryan/Local/CHUM/303/Directory of scholars active.txt
+/home/ryan/Local/CHUM/303/Book reviews.txt
+/home/ryan/Local/CHUM/303/Letter from Oslo.txt
+/home/ryan/Local/CHUM/303/Producing narrative maps with multidimensional scaling techniques.txt
+/home/ryan/Local/CHUM/303/Letter from Göteborg.txt
+/home/ryan/Local/CHUM/303/Computer analysis and transcription of performed music_ A project report.txt
+/home/ryan/Local/CHUM/303/Measurement and the study of literature.txt
+/home/ryan/Local/CHUM/303/Abstracts and brief reports.txt
+/home/ryan/Local/CHUM/259/Recent publications.txt
+/home/ryan/Local/CHUM/259/News and notes.txt
+/home/ryan/Local/CHUM/259/A preliminary survey on the use of computers in linguistic research.txt
+/home/ryan/Local/CHUM/259/The current state of music research and the computer.txt
+/home/ryan/Local/CHUM/259/Computers and the classics.txt
+/home/ryan/Local/CHUM/259/Data collection and dissemination in museums_ A workshop report.txt
+/home/ryan/Local/CHUM/259/Meetings announced.txt
+/home/ryan/Local/CHUM/259/The machine in the garden_ Computers and literary scholarship, 1970.txt
+/home/ryan/Local/CHUM/259/New courses announced.txt
+/home/ryan/Local/CHUM/259/Computer applications in cultural anthropology.txt
+/home/ryan/Local/CHUM/259/Clio and computers_ A survey of computerized research in history.txt
+/home/ryan/Local/CHUM/259/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/313/Computer assisted modeling of affective tone in written documents.txt
+/home/ryan/Local/CHUM/313/The McKay institute videodisc project_ Rationale, history, and goals.txt
+/home/ryan/Local/CHUM/313/Computer applications for an edition of Robert Burton'sThe Anatomy of Melancholy_ A system for scholarly publishing.txt
+/home/ryan/Local/CHUM/313/Converging technologies on campus_ A report on the 1981 EDUCOM Conference.txt
+/home/ryan/Local/CHUM/313/Book reviews.txt
+/home/ryan/Local/CHUM/313/Troubadours and transposition_ A computer-aided study.txt
+/home/ryan/Local/CHUM/313/The first summer school on linguistics for computer scientists.txt
+/home/ryan/Local/CHUM/313/Artificial intelligence, history and knowledge representation.txt
+/home/ryan/Local/CHUM/313/The annals of computing_ Stylistics.txt
+/home/ryan/Local/CHUM/313/Abstracts and brief reports.txt
+/home/ryan/Local/CHUM/343/Quantification of rewriting by the Brothers Grimm_ A comparison of successive versions of three tales.txt
+/home/ryan/Local/CHUM/343/Report on a new OED project_ A study of the history of new words in the new OED.txt
+/home/ryan/Local/CHUM/343/Using information management systems to study modern Greek folklore.txt
+/home/ryan/Local/CHUM/343/Beyond the concordance Lotus and dBASE as text analysis tools.txt
+/home/ryan/Local/CHUM/343/A statistical measure of theme and structure.txt
+/home/ryan/Local/CHUM/343/Using a tree model in textual analysis.txt
+/home/ryan/Local/CHUM/343/Quantitative studies of literature. A critique and an outlook.txt
+/home/ryan/Local/CHUM/343/Lexical and focal preferences in Rousseau'sProfession de foi du Vicaire Savoyard (Book IV ofEmile).txt
+/home/ryan/Local/CHUM/343/Introduction.txt
+/home/ryan/Local/CHUM/343/SWIM_ A “Natural” Interface for the scientifically minded language learner.txt
+/home/ryan/Local/CHUM/343/Where have all the key words gone_.txt
+/home/ryan/Local/CHUM/343/‘An ocean where each kind. . .’_ Statistical analysis and some major determinants of literary style.txt
+/home/ryan/Local/CHUM/343/Automatic text typing.txt
+/home/ryan/Local/CHUM/343/From literary output to literary criticism_ Discovering Shaw's rhetoric.txt
+/home/ryan/Local/CHUM/343/The way stylized language means_ Pattern matching in the child ballads.txt
+/home/ryan/Local/CHUM/343/Some statistics of themes in the French novel.txt
+/home/ryan/Local/CHUM/343/The chameleon approach_ A technique to reach more users.txt
+/home/ryan/Local/CHUM/343/Book review.txt
+/home/ryan/Local/CHUM/343/Analysis of the discourse structure of lyric poetry.txt
+/home/ryan/Local/CHUM/343/The language of enlightened politics_ TheSociété de 1789 in the French revolution.txt
+/home/ryan/Local/CHUM/314/Automated identification of melodic variants in folk music.txt
+/home/ryan/Local/CHUM/314/Book reviews.txt
+/home/ryan/Local/CHUM/314/A statistical study of authorship in the corpus lysiacum.txt
+/home/ryan/Local/CHUM/314/Atlas, matrices et similarités_ Petit aperçu dialectométrique.txt
+/home/ryan/Local/CHUM/314/Abstracts and brief reports.txt
+/home/ryan/Local/CHUM/340/Syntactic parsing_ A survey.txt
+/home/ryan/Local/CHUM/340/Call for nominations and applications.txt
+/home/ryan/Local/CHUM/340/Editorial.txt
+/home/ryan/Local/CHUM/340/Semantic processing for communicative exercises in foreign-language learning.txt
+/home/ryan/Local/CHUM/340/Intelligent tutoring systems_ Exploring issues in learning and teaching writing.txt
+/home/ryan/Local/CHUM/340/A bibliography of intelligent computer-assisted language instruction.txt
+/home/ryan/Local/CHUM/340/Call for technical reviewers.txt
+/home/ryan/Local/CHUM/340/Using intelligent computer-assisted language learning.txt
+/home/ryan/Local/CHUM/340/On the edge_ Intelligent CALL in the 1990s.txt
+/home/ryan/Local/CHUM/340/Publisher's announcement.txt
+/home/ryan/Local/CHUM/340/Introduction_ Intelligent computer-assisted language instruction.txt
+/home/ryan/Local/CHUM/312/Fangorn_ A special-purpose language for the humanities.txt
+/home/ryan/Local/CHUM/312/A computer-assisted approach to micro-analysis of melodic lines.txt
+/home/ryan/Local/CHUM/312/Computerized data banks in archaeology_ The European situation.txt
+/home/ryan/Local/CHUM/312/Book reviews.txt
+/home/ryan/Local/CHUM/312/Phonology and style_ A computer-assisted approach to German verse.txt
+/home/ryan/Local/CHUM/312/Letter from Ljubljana.txt
+/home/ryan/Local/CHUM/312/Abstracts and brief reports.txt
+/home/ryan/Local/CHUM/319/Ldms_ A linguistic data management system.txt
+/home/ryan/Local/CHUM/319/Choice of grammatical word-class without global syntactic analysis_ Tagging words in the lob corpus.txt
+/home/ryan/Local/CHUM/319/Book reviews.txt
+/home/ryan/Local/CHUM/319/Data bases and knowledge representation for literary and linguistic studies.txt
+/home/ryan/Local/CHUM/319/Abstracts and brief reports.txt
+/home/ryan/Local/CHUM/298/Zur Erstellung einer computerunterstützten Grammatik “Flexionsmorphologie des Frühneuhochdeutschen”.txt
+/home/ryan/Local/CHUM/298/Computers and medieval english lexicography.txt
+/home/ryan/Local/CHUM/298/Data base development and analysis for the social historian_ The educational status of the beneficed clergy of the diocese of Hereford, 1289–1539.txt
+/home/ryan/Local/CHUM/298/Möglichkeiten und Grenzen Elektronischer Datenverarbeitung bei der Erforschung der Geschichte des Mittelalters.txt
+/home/ryan/Local/CHUM/298/Computers and the old spanish dictionary.txt
+/home/ryan/Local/CHUM/298/Informatique et Histoire Médiévale à l'Institut de Recherche et d'Histoire de Textes.txt
+/home/ryan/Local/CHUM/298/KLIC_ A computer aid to graphological analysis.txt
+/home/ryan/Local/CHUM/298/Dictio probatoria as fingerprint_ Computer discovery of manuscript provenances.txt
+/home/ryan/Local/CHUM/298/Medieval charters and the computer_ An analysis using Mark IV.txt
+/home/ryan/Local/CHUM/298/Guest editor's note_ Computers and medieval studies.txt
+/home/ryan/Local/CHUM/298/A computer analysis of metrical patterns inBeowulf.txt
+/home/ryan/Local/CHUM/298/Some considerations concerning encoding and concording texts.txt
+/home/ryan/Local/CHUM/298/The use of computers in editing medieval baptismal records in Pisa (1457–1509).txt
+/home/ryan/Local/CHUM/298/Conceptual glossaries_ A new tool for medievalists.txt
+/home/ryan/Local/CHUM/298/AnIndex Verborum to Gratian'sDecretum_ The reason to computerize it.txt
+/home/ryan/Local/CHUM/298/Vox Latina_ Belgian initiatives in data processing the intellectual language of Europe, A.D. 197–1965.txt
+/home/ryan/Local/CHUM/298/Towards an analysis of Notker Labeo's Old High German.txt
+/home/ryan/Local/CHUM/298/The study of Chaucer's vocabulary.txt
+/home/ryan/Local/CHUM/298/A prosopographical and topographical evaluation of the first Bürgerbuch of Freiburg, Switzerland (1341–1416).txt
+/home/ryan/Local/CHUM/298/The cognitive basis of late medieval religious biographies.txt
+/home/ryan/Local/CHUM/283/The London stage 1800–1900_ A data base for a calendar of performances on the nineteenth-century London stage.txt
+/home/ryan/Local/CHUM/283/The 1975 Madrid computers in linguistics conference.txt
+/home/ryan/Local/CHUM/283/Reviews.txt
+/home/ryan/Local/CHUM/283/Recent publications.txt
+/home/ryan/Local/CHUM/283/Directory of scholars active.txt
+/home/ryan/Local/CHUM/283/Summer Institutes announced.txt
+/home/ryan/Local/CHUM/283/News and notes.txt
+/home/ryan/Local/CHUM/283/Statistical analysis of lexical data using chi-squared and related distributions.txt
+/home/ryan/Local/CHUM/283/Meetings announced.txt
+/home/ryan/Local/CHUM/283/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/283/Call for papers.txt
+/home/ryan/Local/CHUM/347/Technical reviews.txt
+/home/ryan/Local/CHUM/347/Project report_ Strong Writer.txt
+/home/ryan/Local/CHUM/347/A note on the authorship of Pericles.txt
+/home/ryan/Local/CHUM/347/Book reviews.txt
+/home/ryan/Local/CHUM/347/The bard in bits_ Electronic editions of Shakespeare and programs to analyze them.txt
+/home/ryan/Local/CHUM/347/Stylistic analysis of a corpus of twentieth-century Spanish narrative.txt
+/home/ryan/Local/CHUM/347/Lexical choices and aesthetic success_ A computer content analysis of 154 Shakespeare sonnets.txt
+/home/ryan/Local/CHUM/347/Courseware reviews.txt
+/home/ryan/Local/CHUM/347/Notes and news.txt
+/home/ryan/Local/CHUM/274/Summer institutes.txt
+/home/ryan/Local/CHUM/274/Reviews.txt
+/home/ryan/Local/CHUM/274/Recent publications.txt
+/home/ryan/Local/CHUM/274/Computers in historical analysis.txt
+/home/ryan/Local/CHUM/274/The annual meeting of the ACL.txt
+/home/ryan/Local/CHUM/274/Humanities computing in Italy.txt
+/home/ryan/Local/CHUM/274/Introductory FORTRAN textbooks_ An overview for humanists.txt
+/home/ryan/Local/CHUM/274/The cybernetic centaur_ Advances in computer-assisted instruction.txt
+/home/ryan/Local/CHUM/274/News and notes.txt
+/home/ryan/Local/CHUM/274/Computer language_ An innovation in the liberal arts curriculum.txt
+/home/ryan/Local/CHUM/274/Recent quantitative research in French studies.txt
+/home/ryan/Local/CHUM/274/The study of english loan-words in modern French.txt
+/home/ryan/Local/CHUM/274/Meetings announced.txt
+/home/ryan/Local/CHUM/274/Recent computer applications in cultural anthropology.txt
+/home/ryan/Local/CHUM/274/Further thoughts on SNAP.txt
+/home/ryan/Local/CHUM/274/Call for papers.txt
+/home/ryan/Local/CHUM/261/Verbal materials in machine-readable form.txt
+/home/ryan/Local/CHUM/261/Recent publications_001.txt
+/home/ryan/Local/CHUM/261/Reviews.txt
+/home/ryan/Local/CHUM/261/Recent publications.txt
+/home/ryan/Local/CHUM/261/Recent publications_002.txt
+/home/ryan/Local/CHUM/261/News and notes.txt
+/home/ryan/Local/CHUM/261/Etat présent de l'utilisation des ordinateurs pour l'étude de la littérature française.txt
+/home/ryan/Local/CHUM/261/Computers and European Museums_ A report.txt
+/home/ryan/Local/CHUM/261/A computerized language analysis system.txt
+/home/ryan/Local/CHUM/261/Programming languages for the humanities.txt
+/home/ryan/Local/CHUM/261/The archaeological data bank_ A progress report.txt
+/home/ryan/Local/CHUM/261/Meetings announced.txt
+/home/ryan/Local/CHUM/261/New courses announced.txt
+/home/ryan/Local/CHUM/261/Letter to the editor.txt
+/home/ryan/Local/CHUM/261/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/261/Call for papers.txt
+/home/ryan/Local/CHUM/299/Recent publications_001.txt
+/home/ryan/Local/CHUM/299/Recent publications.txt
+/home/ryan/Local/CHUM/299/Computer courses for humanists_ A survey.txt
+/home/ryan/Local/CHUM/299/A terminal for music manuscript input.txt
+/home/ryan/Local/CHUM/299/The ninth conference on computers in the undergraduate curricula_ A report.txt
+/home/ryan/Local/CHUM/299/CAI in college english.txt
+/home/ryan/Local/CHUM/299/Book reviews.txt
+/home/ryan/Local/CHUM/299/Software review author.txt
+/home/ryan/Local/CHUM/299/The application of advanced technology to scholarly communication in the humanities.txt
+/home/ryan/Local/CHUM/299/The computer in social history_ Historical demography in Germany.txt
+/home/ryan/Local/CHUM/299/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/299/Funding computer-aided research in the division of research grants at the National Endowment for the Humanities.txt
+/home/ryan/Local/CHUM/262/Reviews.txt
+/home/ryan/Local/CHUM/262/Recent publications.txt
+/home/ryan/Local/CHUM/262/The “London Stage” information bank.txt
+/home/ryan/Local/CHUM/262/News and notes.txt
+/home/ryan/Local/CHUM/262/Using the computer to identify differences among text variants.txt
+/home/ryan/Local/CHUM/262/Annual bibliography for 1970.txt
+/home/ryan/Local/CHUM/262/Meetings announced.txt
+/home/ryan/Local/CHUM/262/News and notes_001.txt
+/home/ryan/Local/CHUM/262/Summer institutes announced.txt
+/home/ryan/Local/CHUM/262/New courses announced.txt
+/home/ryan/Local/CHUM/262/Letter to the editor.txt
+/home/ryan/Local/CHUM/262/Current scandinavian computer-assisted language and literature research.txt
+/home/ryan/Local/CHUM/262/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/391/The Claremont Shakespeare Authorship Clinic_ How Severe Are the Problems_.txt
+/home/ryan/Local/CHUM/391/The Professor Doth Protest Too Much, Methinks_ Problems with the Foster ”Response“.txt
+/home/ryan/Local/CHUM/331/Graphical representation of a boolean array.txt
+/home/ryan/Local/CHUM/331/Rapport d'Activité sur “Le Traitement Informatique des Textes Médiévaux”.txt
+/home/ryan/Local/CHUM/331/Construction d'un Prototype de Système Expert dans le Domaine Historique.txt
+/home/ryan/Local/CHUM/331/Indexes of citations from Ancient Egypt Literature.txt
+/home/ryan/Local/CHUM/331/Machine translation and the SYGMART system.txt
+/home/ryan/Local/CHUM/331/Politique des banques de données en sciences humaines et sociales.txt
+/home/ryan/Local/CHUM/331/Du Texte Latin à la Concordance Imprimée.txt
+/home/ryan/Local/CHUM/331/La Banque de Données Cristal_ Un capital heuristique sur l'imaginaire.txt
+/home/ryan/Local/CHUM/331/Introducing the Institut de Recherche et d'Histoire des Textes (C.N.R.S.)_ Medieval book and computer.txt
+/home/ryan/Local/CHUM/331/Editor's note.txt
+/home/ryan/Local/CHUM/331/TheOrthotel databank.txt
+/home/ryan/Local/CHUM/331/How the French dialectal data enter theAtlas Linguarum Europae.txt
+/home/ryan/Local/CHUM/331/Retrospect.txt
+/home/ryan/Local/CHUM/331/Limited context semantic translation from a single knowledge-base for a natural language and structuring metarules.txt
+/home/ryan/Local/CHUM/331/The research centre for automatic treatments in classical archaeology.txt
+/home/ryan/Local/CHUM/331/MEDIUM_ Realities and projects.txt
+/home/ryan/Local/CHUM/331/Vers un Système Expert pour l'Analyse des Textes de Moyen Francais.txt
+/home/ryan/Local/CHUM/331/Letter from GETA.txt
+/home/ryan/Local/CHUM/331/Méthode d'Analyses Statistiques Informatisées des Microtoponymes Franc-Comtois.txt
+/home/ryan/Local/CHUM/349/The problem of a statistical approach.txt
+/home/ryan/Local/CHUM/349/SQUARENOTE_ The idea Librarian.txt
+/home/ryan/Local/CHUM/349/Correct grammar.txt
+/home/ryan/Local/CHUM/349/Past masters_ The Electronic Editions of Locke, Berkeley, and Hume..txt
+/home/ryan/Local/CHUM/349/Are the Thisted-Efron authorship tests valid_.txt
+/home/ryan/Local/CHUM/349/Friendly interfaces for text processors_ microsoft mouse, microsoft windows, and wordperfect 5.1.txt
+/home/ryan/Local/CHUM/349/The word processor.txt
+/home/ryan/Local/CHUM/349/Some approaches to computer analysis of dialogue in theater_ Buero Vallejo's En la ardiente oscuridad.txt
+/home/ryan/Local/CHUM/349/Anatomy of a new medium_ Literary and pedagogic uses of advanced linguistic computer structures.txt
+/home/ryan/Local/CHUM/349/The optical scanning of medieval music.txt
+/home/ryan/Local/CHUM/349/RightWriter 3.1.txt
+/home/ryan/Local/CHUM/383/Adding New Words into A Chinese Thesaurus.txt
+/home/ryan/Local/CHUM/383/High-quality imaging at the National Gallery_ Origins, implementation and applications.txt
+/home/ryan/Local/CHUM/383/Digital Preservation_ A Time Bomb for Digital Libraries.txt
+/home/ryan/Local/CHUM/383/PLATA_ An Application of LEGAL, a Machine Learning Based System, to a Typology of Archaeological Ceramics.txt
+/home/ryan/Local/CHUM/383/Language Independent Statistical Software for Corpus Exploration.txt
+/home/ryan/Local/CHUM/383/Dickens on Disk.txt
+/home/ryan/Local/CHUM/254/Museums and the computer_ An appraisal of new potentials.txt
+/home/ryan/Local/CHUM/254/Some preliminary attempts at computer-assisted style analysis in music.txt
+/home/ryan/Local/CHUM/254/The new philology_ An old discipline or a new science_.txt
+/home/ryan/Local/CHUM/254/The compleat computer center.txt
+/home/ryan/Local/CHUM/254/The blind lead the blind.txt
+/home/ryan/Local/CHUM/254/News and Notes_001.txt
+/home/ryan/Local/CHUM/254/News and Notes_002.txt
+/home/ryan/Local/CHUM/254/Meetings announced.txt
+/home/ryan/Local/CHUM/254/Approaches to funding support for humanistic scholarship.txt
+/home/ryan/Local/CHUM/254/Letter to the editor.txt
+/home/ryan/Local/CHUM/254/Beyond symbiosis_ The humanist, the librarian, and the computer.txt
+/home/ryan/Local/CHUM/254/Publishing scholarly compilations by computer.txt
+/home/ryan/Local/CHUM/254/Technology and humanistic values.txt
+/home/ryan/Local/CHUM/254/Numbers and history_ The dilemma of measurement.txt
+/home/ryan/Local/CHUM/254/Computer techniques for the national archives.txt
+/home/ryan/Local/CHUM/254/News and Notes.txt
+/home/ryan/Local/CHUM/317/Microcomputers as field tools.txt
+/home/ryan/Local/CHUM/317/Book reviews.txt
+/home/ryan/Local/CHUM/317/Computer generation of melodies_ Further proposals.txt
+/home/ryan/Local/CHUM/317/Abstracts and brief reports.txt
+/home/ryan/Local/CHUM/315/A new approach to automated museum documentation.txt
+/home/ryan/Local/CHUM/315/Book reviews.txt
+/home/ryan/Local/CHUM/315/Automatic expansion of abbreviations_ An experiment with Old Icelandic.txt
+/home/ryan/Local/CHUM/315/Getting in the right mood_ A CAI program on the subjunctive in French.txt
+/home/ryan/Local/CHUM/315/Abstracts and brief reports.txt
+/home/ryan/Local/CHUM/388/Introduction to EuroWordNet.txt
+/home/ryan/Local/CHUM/388/The Linguistic Design of the EuroWordNet Database.txt
+/home/ryan/Local/CHUM/388/Cross-linguistic Alignment of Wordnets with an Inter-Lingual-Index.txt
+/home/ryan/Local/CHUM/388/Compatibility in Interpretation of Relations in EuroWordNet.txt
+/home/ryan/Local/CHUM/388/A Semantic Network of English_ The Mother of All WordNets.txt
+/home/ryan/Local/CHUM/388/The Top-Down Strategy for Building EuroWordNet_ Vocabulary Coverage, Base Concepts and Top Ontology.txt
+/home/ryan/Local/CHUM/388/Applying EuroWordNet to Cross-Language Text Retrieval.txt
+/home/ryan/Local/CHUM/406/Instructions for Authors.txt
+/home/ryan/Local/CHUM/406/The Pompey Project_ Digital Research and Virtual Reconstruction of Rome's First Theatre.txt
+/home/ryan/Local/CHUM/406/Categorisation Techniques in Computer-Assisted Reading and Analysis of Texts (CARAT) in the Humanities.txt
+/home/ryan/Local/CHUM/406/Putting the Dialogue Back Together Re-Creating Structure in Letter Publishing.txt
+/home/ryan/Local/CHUM/406/Questions of Authorship_ Attribution and Beyond A Lecture Delivered on the Occasion of the Roberto Busa Award ACH-ALLC 2001, New York.txt
+/home/ryan/Local/CHUM/406/Research and Representation_ The M.Phil in History and Computing.txt
+/home/ryan/Local/CHUM/406/Beyond the Web_ TEI, the Digital Library, and the Ebook Revolution.txt
+/home/ryan/Local/CHUM/406/Meta-Interpretation and Hypertext Fiction_ A Critical Response.txt
+/home/ryan/Local/CHUM/406/Analyzing the Order of Items in Manuscripts of The Canterbury Tales.txt
+/home/ryan/Local/CHUM/406/Introduction_ ACH-ALLC 2001 Proceedings.txt
+/home/ryan/Local/CHUM/406/TEI Consortium Members Meet in Chicago.txt
+/home/ryan/Local/CHUM/406/The Time Course of Language Change.txt
+/home/ryan/Local/CHUM/392/The Bible as a Parallel Corpus_ Annotating the ‘Book of 2000 Tongues’.txt
+/home/ryan/Local/CHUM/392/XML and the TEI.txt
+/home/ryan/Local/CHUM/392/An SGML-HTML Electronic Thesis and Dissertation Library.txt
+/home/ryan/Local/CHUM/392/The Text Encoding Initiative at 10_ Not Just an Interchange Format Anymore – But a New Research Community.txt
+/home/ryan/Local/CHUM/392/Putting Our Headers together_ A Report on the TEI Header Meeting 12 September 1997.txt
+/home/ryan/Local/CHUM/392/Using the Right Tools_ Enhancing Retrieval from Marked-up Documents.txt
+/home/ryan/Local/CHUM/392/TEI and the Encoding of the Physical Structure of Books.txt
+/home/ryan/Local/CHUM/392/Textual Variation and Version Control in the TEI.txt
+/home/ryan/Local/CHUM/392/Silfide_ A System for Open Access and Distributed Delivery of TEI Encoded Documents.txt
+/home/ryan/Local/CHUM/392/Using the TEI Writing System Declaration (WSD).txt
+/home/ryan/Local/CHUM/392/Taking Snapshots of the Web with a TEI Camera.txt
+/home/ryan/Local/CHUM/392/XML Ubiquity and the Scholarly Community.txt
+/home/ryan/Local/CHUM/392/TEI Encoding and Syntactic Tagging of an Old French Text.txt
+/home/ryan/Local/CHUM/392/Using Architectural Forms to Map TEI Data into an Object-Oriented Database.txt
+/home/ryan/Local/CHUM/392/Delivering Electronic Texts Over the Web_ The Current and Planned Practices of the Oxford Text Archive.txt
+/home/ryan/Local/CHUM/411/Extracting Multilingual Lexicons from Parallel Corpora.txt
+/home/ryan/Local/CHUM/411/On the Ownership of Text.txt
+/home/ryan/Local/CHUM/411/Semantic Roles as Slots in OIL Ontologies.txt
+/home/ryan/Local/CHUM/411/The Development of Early Computer-Assisted Writing Instruction (1960–1978)_ The Double Logic of Media and Tools.txt
+/home/ryan/Local/CHUM/411/Intertextual Encoding in the Writing of Women's Literary History.txt
+/home/ryan/Local/CHUM/411/Semantic Variation in Idiolect and Sociolect_ Corpus Linguistic Evidence from Literary Texts.txt
+/home/ryan/Local/CHUM/266/Summer institutes.txt
+/home/ryan/Local/CHUM/266/Verbal materials in machine-readable form.txt
+/home/ryan/Local/CHUM/266/Reviews.txt
+/home/ryan/Local/CHUM/266/Recent publications.txt
+/home/ryan/Local/CHUM/266/Computer-aided studies of middle high german texts.txt
+/home/ryan/Local/CHUM/266/News and notes.txt
+/home/ryan/Local/CHUM/266/Humanities programs available.txt
+/home/ryan/Local/CHUM/266/Meetings announced.txt
+/home/ryan/Local/CHUM/266/Encoding techniques in dutch historical lexicography.txt
+/home/ryan/Local/CHUM/266/Music in machine-readable form.txt
+/home/ryan/Local/CHUM/266/New courses announced.txt
+/home/ryan/Local/CHUM/266/Interactive lexicon updating.txt
+/home/ryan/Local/CHUM/266/Computerized video-composition for the humanist.txt
+/home/ryan/Local/CHUM/266/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/266/Computational linguistics and the study of linguistic performance.txt
+/home/ryan/Local/CHUM/266/Call for papers.txt
+/home/ryan/Local/CHUM/256/Reviews.txt
+/home/ryan/Local/CHUM/256/An experimental concordance program.txt
+/home/ryan/Local/CHUM/256/New courses established.txt
+/home/ryan/Local/CHUM/256/Quantitative stylistics_ An essay in methodology.txt
+/home/ryan/Local/CHUM/256/The 1969 international conference on computational linguistics_ A progress report.txt
+/home/ryan/Local/CHUM/256/News and notes.txt
+/home/ryan/Local/CHUM/256/Toward a conceptual grammar and lexicon.txt
+/home/ryan/Local/CHUM/256/Meeting announced.txt
+/home/ryan/Local/CHUM/256/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/393/Elementary Dependency Trees for Identifying Corpus-Specific Semantic Classes.txt
+/home/ryan/Local/CHUM/393/Irizarry, Estell, Informática y literatura. Análisis de textos hispánicos.txt
+/home/ryan/Local/CHUM/393/Branimir Boguraev and James Pustejovsky, Corpus Processing for Lexical Acquisition.txt
+/home/ryan/Local/CHUM/393/Contrast and Change in the Idiolects of Ben Jonson Characters.txt
+/home/ryan/Local/CHUM/393/Text Indexation with INTEX.txt
+/home/ryan/Local/CHUM/393/The User-Oriented Bengali Easy Orthography.txt
+/home/ryan/Local/CHUM/393/Annotating The Satanic Verses_ An Example of Internet Research and Publication.txt
+/home/ryan/Local/CHUM/393/Michael R. Brent, Computational Approaches to Language Acquisition.txt
+/home/ryan/Local/CHUM/393/Colorado Castellary, Arturo, Hipercultura Visual El reto hipermedia en el arte y la educación.txt
+/home/ryan/Local/CHUM/358/Dictionary word sense distinctions_ An enquiry into their nature.txt
+/home/ryan/Local/CHUM/358/Opinion The Brave New World of Desktop Publishing.txt
+/home/ryan/Local/CHUM/358/Glossing text with the PC-KIMMO morphological parser.txt
+/home/ryan/Local/CHUM/358/Statistical models for word frequency distributions_ A linguistic evaluation.txt
+/home/ryan/Local/CHUM/358/Courseware Reviews.txt
+/home/ryan/Local/CHUM/358/A method for disambiguating word senses in a large corpus.txt
+/home/ryan/Local/CHUM/358/Errata.txt
+/home/ryan/Local/CHUM/358/Technical Review.txt
+/home/ryan/Local/CHUM/358/The Analysis and Acquisition of Proper Names for the Understanding of Free Text.txt
+/home/ryan/Local/CHUM/358/The multi-dimensional approach to linguistic analyses of genre variation_ An overview of methodology and findings.txt
+/home/ryan/Local/CHUM/358/Introduction_ Common methodologies in humanities computing and computational linguistics.txt
+/home/ryan/Local/CHUM/358/Xtract_ An overview.txt
+/home/ryan/Local/CHUM/375/Neural network applications in stylometry_ The Federalist Papers.txt
+/home/ryan/Local/CHUM/375/Announcement.txt
+/home/ryan/Local/CHUM/375/The not-so-simple art of imitation_ Pastiche, literary style, and Raymond Chandler.txt
+/home/ryan/Local/CHUM/375/The Politics of the Electronic Text.txt
+/home/ryan/Local/CHUM/375/Making Hypermedia Work_ A User's Guide to HyTime..txt
+/home/ryan/Local/CHUM/375/Low-level typographical spellchecking_ A proposal.txt
+/home/ryan/Local/CHUM/375/REDUX_ A system for the reduction of cases.txt
+/home/ryan/Local/CHUM/375/Inforntática y humanidades.txt
+/home/ryan/Local/CHUM/375/The transcription of primary textual sources using SGML.txt
+/home/ryan/Local/CHUM/250/Musical analysis and the computer_ A report on some current approaches and the outlook for the future.txt
+/home/ryan/Local/CHUM/250/Reviews.txt
+/home/ryan/Local/CHUM/250/Directory of scholars active.txt
+/home/ryan/Local/CHUM/250/News and notes.txt
+/home/ryan/Local/CHUM/250/Meeting Announced.txt
+/home/ryan/Local/CHUM/250/An international survey of museum computer activity.txt
+/home/ryan/Local/CHUM/250/Meeting announced.txt
+/home/ryan/Local/CHUM/376/Computer modeling and critical theory.txt
+/home/ryan/Local/CHUM/376/Computerizing biblical literature.txt
+/home/ryan/Local/CHUM/376/Announcement.txt
+/home/ryan/Local/CHUM/376/“Literary studies_ A computer assisted teaching methodology”.txt
+/home/ryan/Local/CHUM/376/Performance scripting in cyberspace.txt
+/home/ryan/Local/CHUM/376/What computers are good for in the literature classroom.txt
+/home/ryan/Local/CHUM/376/What's all this hype about hypertext__ Teaching literature with George P. Landow's The Dickens Web.txt
+/home/ryan/Local/CHUM/376/T. S. Eliot on a CD-ROM_ A narrative of the production of a CD.txt
+/home/ryan/Local/CHUM/376/Professor-created computer programs for student research.txt
+/home/ryan/Local/CHUM/376/Computers and teaching literature_ Introduction.txt
+/home/ryan/Local/CHUM/376/Current uses of hypertext in teaching literature.txt
+/home/ryan/Local/CHUM/376/Computer-assisted techniques to enhance transformative learning in first-year literature courses.txt
+/home/ryan/Local/CHUM/264/Reviews.txt
+/home/ryan/Local/CHUM/264/Recent publications.txt
+/home/ryan/Local/CHUM/264/Towards a computer curriculum for the humanities.txt
+/home/ryan/Local/CHUM/264/Recent developments in computer-assisted musical scholarship.txt
+/home/ryan/Local/CHUM/264/Computers and classical literature_ 1970–1971.txt
+/home/ryan/Local/CHUM/264/Soviet historians, quantitative methods, and digital computers.txt
+/home/ryan/Local/CHUM/264/News and notes.txt
+/home/ryan/Local/CHUM/264/The production of machine-readable text_ Some of the variables.txt
+/home/ryan/Local/CHUM/264/Meetings announced.txt
+/home/ryan/Local/CHUM/264/Letter to the editor.txt
+/home/ryan/Local/CHUM/264/Computers and literary scholarship.txt
+/home/ryan/Local/CHUM/264/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/264/Call for papers.txt
+/home/ryan/Local/CHUM/335/Textbase for humanities applications_ Wordcruncher.txt
+/home/ryan/Local/CHUM/335/Book reviews.txt
+/home/ryan/Local/CHUM/335/Computers and the humanities courses_ Philosophical bases and approach.txt
+/home/ryan/Local/CHUM/335/Perspectives on teaching computing in the humanities.txt
+/home/ryan/Local/CHUM/335/Errata.txt
+/home/ryan/Local/CHUM/335/Selected bibliography for computer courses in the humanities.txt
+/home/ryan/Local/CHUM/335/Teaching computers and the humanities courses_ A survey.txt
+/home/ryan/Local/CHUM/335/How should we teach computing to humanists_.txt
+/home/ryan/Local/CHUM/365/Authorship attribution.txt
+/home/ryan/Local/CHUM/365/Technical review.txt
+/home/ryan/Local/CHUM/365/A relational database for the study and quantification of tempo directions in music.txt
+/home/ryan/Local/CHUM/365/Teaching electronic communication skills to graduate students.txt
+/home/ryan/Local/CHUM/365/Lyrical drama and the “turbid mountebanks”_ Styles of dialogue in romantic and renaissance tragedy.txt
+/home/ryan/Local/CHUM/365/Courseware review.txt
+/home/ryan/Local/CHUM/365/Technical review_001.txt
+/home/ryan/Local/CHUM/279/Concordances in the seventies.txt
+/home/ryan/Local/CHUM/279/Reviews.txt
+/home/ryan/Local/CHUM/279/Recent publications.txt
+/home/ryan/Local/CHUM/279/News and notes.txt
+/home/ryan/Local/CHUM/279/SELECT_ A computer program to identify associationally rich words for content analysis.txt
+/home/ryan/Local/CHUM/279/A program to teach logic.txt
+/home/ryan/Local/CHUM/279/SOLAR (a Semantically-Oriented Lexical ARchive)_ Current status and plans.txt
+/home/ryan/Local/CHUM/279/Federal support of computer-based humanities research.txt
+/home/ryan/Local/CHUM/279/Use of the computer in music research_ A short report on accomplishments, limitations, and future needs.txt
+/home/ryan/Local/CHUM/279/A survey of computer-aided research in early German.txt
+/home/ryan/Local/CHUM/279/Meetings announced.txt
+/home/ryan/Local/CHUM/279/A computer study of a suspension-formation in the masses of Josquin Desprez.txt
+/home/ryan/Local/CHUM/279/Summer institutes announced.txt
+/home/ryan/Local/CHUM/279/The development of computer courses for humanists.txt
+/home/ryan/Local/CHUM/279/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/279/Call for papers.txt
+/home/ryan/Local/CHUM/380/Machine learning applications in anthropology_ Automated discovery over kinship structures.txt
+/home/ryan/Local/CHUM/380/Ten desiderata for Computer-Assisted Language Learning programs_ The example of ELSE.txt
+/home/ryan/Local/CHUM/380/Invalidation reappraised.txt
+/home/ryan/Local/CHUM/380/The enemy within_ Autocorrelation bias in content analysis of narratives.txt
+/home/ryan/Local/CHUM/380/Book Reviews.txt
+/home/ryan/Local/CHUM/380/Current approaches to punctuation in computational linguistics.txt
+/home/ryan/Local/CHUM/380/The Charrette project_ Manipulating text and image in an electronic archive of a medieval manuscript tradition.txt
+/home/ryan/Local/CHUM/396/Computers and Resource-Based History Teaching_A UK Perspective.txt
+/home/ryan/Local/CHUM/396/Electrifying the Canon_ The Impact of Computing on Classical Studies.txt
+/home/ryan/Local/CHUM/396/Wag the Dog_ Online Conferencing and Teaching.txt
+/home/ryan/Local/CHUM/396/From Concordances to Subject Portals_ Supportingthe Text-Centred Humanities Community.txt
+/home/ryan/Local/CHUM/396/Tailor-made or Off-the-peg_ Virtual Courses in the Humanities.txt
+/home/ryan/Local/CHUM/396/Editorial_ Computers in Humanities Teaching and Research.txt
+/home/ryan/Local/CHUM/396/Virtual Seminars in European Studies_ A Model for Collaborative Learning.txt
+/home/ryan/Local/CHUM/396/Technology in Teaching Literature and Culture_Some Reflections.txt
+/home/ryan/Local/CHUM/387/Discovering Buffalo Story Robes_ A Case for Cross-Domain Information Strategies.txt
+/home/ryan/Local/CHUM/387/On the Text of Jude 12.txt
+/home/ryan/Local/CHUM/387/Assessment of Systems for Nominal Retrieval and Historical Record Linkage.txt
+/home/ryan/Local/CHUM/387/Tagging and the Case of Pronouns.txt
+/home/ryan/Local/CHUM/385/Retrieval Of Morphological Variants In Searches Of Latin Text Databases.txt
+/home/ryan/Local/CHUM/385/Using SGML as a Basis for Data-Intensive Natural Language Processing.txt
+/home/ryan/Local/CHUM/385/“Assessing the Impact of Computer-Assisted Instruction (CAI) in Undergraduate Latin American Studies Courses”.txt
+/home/ryan/Local/CHUM/385/Modifying the TEI DTD_ The Case of Korean Dictionaries.txt
+/home/ryan/Local/CHUM/385/The Potential of Multi-Media for Foreign Language Learning_ A Critical Evaluation.txt
+/home/ryan/Local/CHUM/286/Software reviews.txt
+/home/ryan/Local/CHUM/286/Recent publications.txt
+/home/ryan/Local/CHUM/286/Directory of scholars active.txt
+/home/ryan/Local/CHUM/286/Phonological patterning in German verse.txt
+/home/ryan/Local/CHUM/286/Book reviews.txt
+/home/ryan/Local/CHUM/286/News and notes.txt
+/home/ryan/Local/CHUM/286/Books received.txt
+/home/ryan/Local/CHUM/286/A LISP-based system for the study of Schenkerian analysis.txt
+/home/ryan/Local/CHUM/286/Meetings announced.txt
+/home/ryan/Local/CHUM/286/Summer institutes announced.txt
+/home/ryan/Local/CHUM/286/OPCOL_ An Optimal Text Collation Algorithm.txt
+/home/ryan/Local/CHUM/286/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/286/Call for papers.txt
+/home/ryan/Local/CHUM/348/Informatics and new philology.txt
+/home/ryan/Local/CHUM/348/Justinian lexicography.txt
+/home/ryan/Local/CHUM/348/Lexical distribution in the Guomin Xiaoxue Guoyu_ A computer-assisted analysis of morpholexical elements.txt
+/home/ryan/Local/CHUM/348/Philosophical lexicography_ The LIE and the use of the computer.txt
+/home/ryan/Local/CHUM/348/Church history and the computer.txt
+/home/ryan/Local/CHUM/348/The Corpus dei Manoscritti Copti Letterari.txt
+/home/ryan/Local/CHUM/348/A literary lexicography project for the Italian language.txt
+/home/ryan/Local/CHUM/348/Introduction.txt
+/home/ryan/Local/CHUM/348/Legal informatics research in Italy_ The Istituto per la Documentazione Giuridica of the Italian National Research Council.txt
+/home/ryan/Local/CHUM/348/The interdisciplinary group for expression signs computing.txt
+/home/ryan/Local/CHUM/348/The Accademia della Crusca_ New perspectives in lexicography.txt
+/home/ryan/Local/CHUM/348/Teaching languages on the computer at the University of Turin_ CAI and interactive videodisc.txt
+/home/ryan/Local/CHUM/348/A concordance of the early Italian poetic language.txt
+/home/ryan/Local/CHUM/348/A concordance to Keil's Latin grammarians.txt
+/home/ryan/Local/CHUM/348/The Italian vocabulary center.txt
+/home/ryan/Local/CHUM/348/Semantic parsing with LFG and conceptual representations.txt
+/home/ryan/Local/CHUM/348/A project for Latin Lexicography_ 1. Automatic lemmatization and word-list.txt
+/home/ryan/Local/CHUM/348/A project for Latin Lexicography_ 2. A Latin morphological analyzer.txt
+/home/ryan/Local/CHUM/348/Recent trends in legal bibliographical documentation.txt
+/home/ryan/Local/CHUM/348/Summary of the activities of the Istituto di Linguistica Computazionale.txt
+/home/ryan/Local/CHUM/297/A font of the international phonetic alphabet for the FR80_ A research report.txt
+/home/ryan/Local/CHUM/297/Reviews.txt
+/home/ryan/Local/CHUM/297/Recent publications.txt
+/home/ryan/Local/CHUM/297/Image processing via computer in aerial archaeology.txt
+/home/ryan/Local/CHUM/297/The battle of the quiet Don_ Another pilot study.txt
+/home/ryan/Local/CHUM/297/News and notes.txt
+/home/ryan/Local/CHUM/297/International colloquium on automatic dialect mapping_ A report.txt
+/home/ryan/Local/CHUM/297/News and notes_002.txt
+/home/ryan/Local/CHUM/297/News and notes_003.txt
+/home/ryan/Local/CHUM/297/The Egg_ A purely digital real-time sound synthesizer.txt
+/home/ryan/Local/CHUM/297/News and notes_001.txt
+/home/ryan/Local/CHUM/297/Using a computer-generated concordance to analyze and document stylistic devices in Robert Pinget's fable.txt
+/home/ryan/Local/CHUM/297/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/329/Needs and development opportunities for educational software for foreign language instruction in schools.txt
+/home/ryan/Local/CHUM/329/Software reviews.txt
+/home/ryan/Local/CHUM/329/Software tools and the folklore archive_ A different perspective.txt
+/home/ryan/Local/CHUM/329/Book reviews.txt
+/home/ryan/Local/CHUM/329/Hardware reviews.txt
+/home/ryan/Local/CHUM/329/The humanist and computer-assisted library research.txt
+/home/ryan/Local/CHUM/363/Computer literacy for the rest of us.txt
+/home/ryan/Local/CHUM/363/Technical review.txt
+/home/ryan/Local/CHUM/363/The surface of language and humanities computing.txt
+/home/ryan/Local/CHUM/363/Babies, bathwater and the study of literature.txt
+/home/ryan/Local/CHUM/363/Courseware review.txt
+/home/ryan/Local/CHUM/363/Introduction.txt
+/home/ryan/Local/CHUM/363/Intertextuality and large corpora_ A medievalist approach.txt
+/home/ryan/Local/CHUM/363/Literary texts and the state of the language_ The role of the computer.txt
+/home/ryan/Local/CHUM/363/Computerizing Céline.txt
+/home/ryan/Local/CHUM/363/An argument for single-author and similar studies using quantitative methods_ Is there safety in numbers_.txt
+/home/ryan/Local/CHUM/363/Towards the implementation of text and discourse theory in computer-assisted textual analysis.txt
+/home/ryan/Local/CHUM/363/Finding the range_ Linguistic analysis and its role in computer-assisted literary study.txt
+/home/ryan/Local/CHUM/363/Signs, symbols and discourses_ A new direction for computer-aided literature studies.txt
+/home/ryan/Local/CHUM/363/Critical theory and textual computing_ Comments and suggestions.txt
+/home/ryan/Local/CHUM/363/Have it your way and mine_ The theory of styles.txt
+/home/ryan/Local/CHUM/397/Spatial Distribution of Rural Social Strata_ UsingDigitised Maps in Historical Research.txt
+/home/ryan/Local/CHUM/397/An Architecture and Query Language for a Federation ofHeterogeneous Dictionary Databases.txt
+/home/ryan/Local/CHUM/397/Using Constraint Logic Programming to Analyze theChronology in ``A Rose for Emily''.txt
+/home/ryan/Local/CHUM/282/Annual bibliography for 1974 and supplement to preceding years.txt
+/home/ryan/Local/CHUM/282/Reviews.txt
+/home/ryan/Local/CHUM/282/Recent publications.txt
+/home/ryan/Local/CHUM/282/A videotape course for computer education in the humanities.txt
+/home/ryan/Local/CHUM/282/News and notes.txt
+/home/ryan/Local/CHUM/282/Books received.txt
+/home/ryan/Local/CHUM/282/Computer printing of Braille music using the IML-MIR system.txt
+/home/ryan/Local/CHUM/282/Meetings announced.txt
+/home/ryan/Local/CHUM/282/Summer institutes announced.txt
+/home/ryan/Local/CHUM/282/Use of an interactive program in analyzing data for a dialect dictionary.txt
+/home/ryan/Local/CHUM/282/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/282/Call for papers.txt
+/home/ryan/Local/CHUM/345/The “two cultures” dichotomy reexamined.txt
+/home/ryan/Local/CHUM/345/Software reviews.txt
+/home/ryan/Local/CHUM/345/Integrating word processing skills with revision skills.txt
+/home/ryan/Local/CHUM/345/A new grammar checker.txt
+/home/ryan/Local/CHUM/345/Paperless writing revisited.txt
+/home/ryan/Local/CHUM/345/The role of computer-assisted learning in a proficiency-based language curriculum.txt
+/home/ryan/Local/CHUM/345/Editorial.txt
+/home/ryan/Local/CHUM/345/Book reviews.txt
+/home/ryan/Local/CHUM/345/Introduction.txt
+/home/ryan/Local/CHUM/345/Radical changes in class discussion using networked computers.txt
+/home/ryan/Local/CHUM/345/Beyond argumentation and comparison-contrast_ Extending the Socrates CAI design principles to classroom teaching and the interpretation and production of other forms of discourse.txt
+/home/ryan/Local/CHUM/345/Courseware reviews.txt
+/home/ryan/Local/CHUM/345/Input...output.txt
+/home/ryan/Local/CHUM/345/Spectrographic analysis and patterns in pronunciation.txt
+/home/ryan/Local/CHUM/345/Notes and news.txt
+/home/ryan/Local/CHUM/359/Learning performance rules in a music interpretation system.txt
+/home/ryan/Local/CHUM/359/Computational musicology.txt
+/home/ryan/Local/CHUM/359/Vandals and bandits.txt
+/home/ryan/Local/CHUM/359/Hierarchical music representation for composition and analysis.txt
+/home/ryan/Local/CHUM/359/GTSIM A computer simulation of music perception.txt
+/home/ryan/Local/CHUM/359/Courseware reviews.txt
+/home/ryan/Local/CHUM/359/A microworld approach to the formalization of musical knowledge.txt
+/home/ryan/Local/CHUM/359/Book review.txt
+/home/ryan/Local/CHUM/359/A music knowledge representation system combining symbolic and analogic approaches.txt
+/home/ryan/Local/CHUM/240/Reviews.txt
+/home/ryan/Local/CHUM/240/News and notes.txt
+/home/ryan/Local/CHUM/240/Art, art history, and the computer.txt
+/home/ryan/Local/CHUM/240/The systems designs and devices used to process the random house dictionary of the english language.txt
+/home/ryan/Local/CHUM/240/The Harpur College Music-Computer seminar_ A report.txt
+/home/ryan/Local/CHUM/240/Computer programs designed to solve humanistic problems.txt
+/home/ryan/Local/CHUM/240/Meetings announced.txt
+/home/ryan/Local/CHUM/240/PL-I_ A programming language for humanities research.txt
+/home/ryan/Local/CHUM/240/Prospect.txt
+/home/ryan/Local/CHUM/243/Recent publications.txt
+/home/ryan/Local/CHUM/243/Directory of scholars active.txt
+/home/ryan/Local/CHUM/243/“Ethnometrics”_ Cultural measurements as a necessary counterbalance to the cost-effectiveness revolution; Some implications of the computers-in-anthropology conference.txt
+/home/ryan/Local/CHUM/243/The programming language SNOBOL3 An introduction.txt
+/home/ryan/Local/CHUM/243/News and notes.txt
+/home/ryan/Local/CHUM/243/Standards for encoding data in a natural language.txt
+/home/ryan/Local/CHUM/243/Meetings announced.txt
+/home/ryan/Local/CHUM/243/Letter to the editor.txt
+/home/ryan/Local/CHUM/243/The computer as art cataloguer.txt
+/home/ryan/Local/CHUM/242/Recent publications.txt
+/home/ryan/Local/CHUM/242/Computers, traditional scholarship, and the ACLS.txt
+/home/ryan/Local/CHUM/242/Letters to the editor.txt
+/home/ryan/Local/CHUM/242/News and notes.txt
+/home/ryan/Local/CHUM/242/Musicology and the computer in New Orleans.txt
+/home/ryan/Local/CHUM/242/MLA, ERIC, and the future.txt
+/home/ryan/Local/CHUM/242/Meetings announced.txt
+/home/ryan/Local/CHUM/242/Computers and political science_ A review article.txt
+/home/ryan/Local/CHUM/242/The rise of native capital in Texas, 1850–1860_ A test of incipient transition of the Rostow thesis.txt
+/home/ryan/Local/CHUM/242/Annual bibliography.txt
+/home/ryan/Local/CHUM/258/Reviews.txt
+/home/ryan/Local/CHUM/258/A tutorial on random number generation.txt
+/home/ryan/Local/CHUM/258/New courses listed.txt
+/home/ryan/Local/CHUM/258/Directory of scholars active.txt
+/home/ryan/Local/CHUM/258/Comment on Mrs. Köster's article.txt
+/home/ryan/Local/CHUM/258/News and notes.txt
+/home/ryan/Local/CHUM/258/Supplementary bibliography for 1969.txt
+/home/ryan/Local/CHUM/258/Symposium on the uses of the computer in literary research_ A conference report.txt
+/home/ryan/Local/CHUM/258/Meetings announced.txt
+/home/ryan/Local/CHUM/258/Computer-supplemented latin instruction at Dartmouth College.txt
+/home/ryan/Local/CHUM/258/IFIP call for papers.txt
+/home/ryan/Local/CHUM/258/Words and numbers_ A quantitative approach to swift and some understrappers.txt
+/home/ryan/Local/CHUM/258/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/410/Instructions for Authors.txt
+/home/ryan/Local/CHUM/410/Change of Writing Style with Time.txt
+/home/ryan/Local/CHUM/410/An Analysis of Verb Subcategorization Frames in Three Special Language Corpora with a View towards Automatic Term Recognition.txt
+/home/ryan/Local/CHUM/410/Representing Multiple Pathways of Textual Flow in the Greek Manuscripts of the Letter of James Using Reduced Median Networks.txt
+/home/ryan/Local/CHUM/410/Detecting Collaborations in Text Comparing the Authors' Rhetorical Language Choices in The Federalist Papers.txt
+/home/ryan/Local/CHUM/410/Hypertext Writing Profiles and Visualisation.txt
+/home/ryan/Local/CHUM/260/Optical readers_ 1970.txt
+/home/ryan/Local/CHUM/260/Recent publications.txt
+/home/ryan/Local/CHUM/260/Directory of scholars active.txt
+/home/ryan/Local/CHUM/260/Letters to the editor.txt
+/home/ryan/Local/CHUM/260/Isaiah and the computer_ A preliminary report.txt
+/home/ryan/Local/CHUM/260/Shakespeare individually concorded.txt
+/home/ryan/Local/CHUM/260/Meetings announced.txt
+/home/ryan/Local/CHUM/260/New courses announced.txt
+/home/ryan/Local/CHUM/260/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/248/Reviews.txt
+/home/ryan/Local/CHUM/248/Recent publications.txt
+/home/ryan/Local/CHUM/248/The thematic index_ A computer application to musicology.txt
+/home/ryan/Local/CHUM/248/Directory of Scholars Active.txt
+/home/ryan/Local/CHUM/248/Prospect III.txt
+/home/ryan/Local/CHUM/248/News and notes.txt
+/home/ryan/Local/CHUM/248/Meetings announced.txt
+/home/ryan/Local/CHUM/248/A computer-assisted graphemic analysis of Beowulf_ Purpose and procedure.txt
+/home/ryan/Local/CHUM/248/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/269/The computer in archaeology_ A critical survey.txt
+/home/ryan/Local/CHUM/269/News and notes.txt
+/home/ryan/Local/CHUM/269/Current trends in computer-assisted instruction.txt
+/home/ryan/Local/CHUM/269/Meetings announced.txt
+/home/ryan/Local/CHUM/269/Recent scholarship in literary and linguistic studies.txt
+/home/ryan/Local/CHUM/269/Letter to the editor.txt
+/home/ryan/Local/CHUM/269/Computer courses for the humanist_ A survey.txt
+/home/ryan/Local/CHUM/269/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/269/Call for papers.txt
+/home/ryan/Local/CHUM/403/On the Corpus Size Needed for Compiling a Comprehensive Computational Lexicon by Automatic Lexical Acquisition.txt
+/home/ryan/Local/CHUM/403/Profil_ An Iconographic Database for Modern Watermarked Papers.txt
+/home/ryan/Local/CHUM/403/GATE, a General Architecture for Text Engineering.txt
+/home/ryan/Local/CHUM/403/Extracting an Arabic Lexicon from Arabic Newspaper Text.txt
+/home/ryan/Local/CHUM/403/HUMANIST, or the Glory of Motion.txt
+/home/ryan/Local/CHUM/360/On the combinatorial complexity of fuzzy pattern matching in music analysis.txt
+/home/ryan/Local/CHUM/360/Technical review.txt
+/home/ryan/Local/CHUM/360/Texts on-line.txt
+/home/ryan/Local/CHUM/360/On the accuracy of musical data, with examples from Gregorian chant and German folksong.txt
+/home/ryan/Local/CHUM/360/When is more less_.txt
+/home/ryan/Local/CHUM/360/Courseware review.txt
+/home/ryan/Local/CHUM/360/Optical character scanning_ A discussion of efficiency and politics.txt
+/home/ryan/Local/CHUM/360/Electronically generated records and twentieth century history.txt
+/home/ryan/Local/CHUM/360/Positions for computing humanists.txt
+/home/ryan/Local/CHUM/360/Book review.txt
+/home/ryan/Local/CHUM/360/The two authors of Columbus'Diary.txt
+/home/ryan/Local/CHUM/302/Directory of scholars active.txt
+/home/ryan/Local/CHUM/302/The electronic scriptorium.txt
+/home/ryan/Local/CHUM/302/Book reviews.txt
+/home/ryan/Local/CHUM/302/Annual bibliography for 1977 and supplement to preceding years.txt
+/home/ryan/Local/CHUM/302/The nationalistic fingerprint in nineteenth-century romantic chamber music.txt
+/home/ryan/Local/CHUM/302/A model for chi-square analysis of regression vocabulary in Hélisenne de Crenne'sLes Angoysses douloureuses.txt
+/home/ryan/Local/CHUM/302/Letter from Cambridge.txt
+/home/ryan/Local/CHUM/302/Software review_ A user's view of WORDS.txt
+/home/ryan/Local/CHUM/302/Abstracts and brief reports.txt
+/home/ryan/Local/CHUM/306/The first international conference on automatic processing of art history data and documents_ A report.txt
+/home/ryan/Local/CHUM/306/A statement on statistics_ An occasional piece.txt
+/home/ryan/Local/CHUM/306/Knowledge representation and reasoning in the humanities and social sciences_ A conference report.txt
+/home/ryan/Local/CHUM/306/Book reviews.txt
+/home/ryan/Local/CHUM/306/A microprocessor-based multilingual terminal for a computerized information handling system.txt
+/home/ryan/Local/CHUM/306/A contextualized vocabulary learning drill for French.txt
+/home/ryan/Local/CHUM/306/Abstracts and brief reports.txt
+/home/ryan/Local/CHUM/306/The annals of humanities computing_ The index Thomisticus.txt
+/home/ryan/Local/CHUM/366/Technical review.txt
+/home/ryan/Local/CHUM/366/A full and efficient machine tractable dictionary for natural language processing_ A revised version of the CUVOALD.txt
+/home/ryan/Local/CHUM/366/André Gide's collection offaits divers.txt
+/home/ryan/Local/CHUM/366/E-talk_ Attitudes and motivation in computer-assisted classroom discussion.txt
+/home/ryan/Local/CHUM/366/Courseware reviews.txt
+/home/ryan/Local/CHUM/366/Comparing text editions with the aid of the computer.txt
+/home/ryan/Local/CHUM/366/Quotations in scholarly text_ Converting existing documents to hypertext.txt
+/home/ryan/Local/CHUM/355/Technical reviews.txt
+/home/ryan/Local/CHUM/355/Opinion.txt
+/home/ryan/Local/CHUM/355/The URICA! II interactive collation system.txt
+/home/ryan/Local/CHUM/355/The theory of ordering lexicographic entries_ Principles, algorithms and computer implementation.txt
+/home/ryan/Local/CHUM/355/An intelligent computer-assistant for stylistic instruction.txt
+/home/ryan/Local/CHUM/355/Courseware reviews.txt
+/home/ryan/Local/CHUM/355/A computer-assisted investigation of gender-related idiolect in Octavio Paz and Rosario Castellanos.txt
+/home/ryan/Local/CHUM/404/The Question Concerning Theory_ Humanism, Subjectivity, and Computing.txt
+/home/ryan/Local/CHUM/404/A New Computer-assisted Literary Criticism_.txt
+/home/ryan/Local/CHUM/404/Gore Galore_ Literary Theory and Computer Games.txt
+/home/ryan/Local/CHUM/404/The Text of Performance and the Performance of Text in the Electronic Edition.txt
+/home/ryan/Local/CHUM/404/The Roberto Busa Award.txt
+/home/ryan/Local/CHUM/404/Mutability, Medium, and Character.txt
+/home/ryan/Local/CHUM/404/Animating the Language Machine_ Computers and Performance.txt
+/home/ryan/Local/CHUM/404/Industrial Text and French Neo-structuralism.txt
+/home/ryan/Local/CHUM/404/Computer-mediated Texts and Textuality_ Theory and Practice.txt
+/home/ryan/Local/CHUM/404/The Challenge for ACH.txt
+/home/ryan/Local/CHUM/373/Intelligent computer-assisted language learning_ A bibliography.txt
+/home/ryan/Local/CHUM/373/Computer documentation_ Writing about technology.txt
+/home/ryan/Local/CHUM/373/The century of prose corpus_ A half-million word historical data base.txt
+/home/ryan/Local/CHUM/373/Weighing the evidence_ Legal discourse in the 19th-Century Spanish feminist Concepción Arenal.txt
+/home/ryan/Local/CHUM/373/Understanding (hyper) media_ Required readings.txt
+/home/ryan/Local/CHUM/373/A concept analysis of Jonathan Swift'sA tale of a Tub andGulliver's Travels.txt
+/home/ryan/Local/CHUM/370/Encoding dictionaries.txt
+/home/ryan/Local/CHUM/370/The encoding of spoken texts.txt
+/home/ryan/Local/CHUM/370/The show must go on_1 Problems of tagging performance texts.txt
+/home/ryan/Local/CHUM/370/Encoding verse texts.txt
+/home/ryan/Local/CHUM/370/Encoding textual criticism.txt
+/home/ryan/Local/CHUM/370/E-Tif_ An electronic terminology interchange format.txt
+/home/ryan/Local/CHUM/370/Speaking with one voice_ Encoding standards and the prospects for an integrated approach to computing in history.txt
+/home/ryan/Local/CHUM/371/A rationale for the TEI recommendations for feature-structure markup.txt
+/home/ryan/Local/CHUM/371/Hierarchical encoding of text_ Technical problems and SGML solutions.txt
+/home/ryan/Local/CHUM/371/The TEI hypertext guidelines.txt
+/home/ryan/Local/CHUM/271/Verbal materials in machine-readable form.txt
+/home/ryan/Local/CHUM/271/Reviews.txt
+/home/ryan/Local/CHUM/271/Recent publications.txt
+/home/ryan/Local/CHUM/271/Automatic collation_ A technique for medieval texts.txt
+/home/ryan/Local/CHUM/271/News and notes.txt
+/home/ryan/Local/CHUM/271/Computational linguistics in Denmark_ A report on the third AILA Congress.txt
+/home/ryan/Local/CHUM/271/Humanities programs available.txt
+/home/ryan/Local/CHUM/271/An application of principal component analysis to the works of Molière.txt
+/home/ryan/Local/CHUM/271/Meetings announced.txt
+/home/ryan/Local/CHUM/271/Summer institutes announced.txt
+/home/ryan/Local/CHUM/271/Computer sequencing and non-alphabetic interference in language data processing.txt
+/home/ryan/Local/CHUM/271/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/271/Call for papers.txt
+/home/ryan/Local/CHUM/276/Reviews.txt
+/home/ryan/Local/CHUM/276/Recent publications.txt
+/home/ryan/Local/CHUM/276/Annual bibliography for 1973 and supplement to preceding years.txt
+/home/ryan/Local/CHUM/276/News and notes.txt
+/home/ryan/Local/CHUM/276/Möglichkeiten der maschinellen Verarbeitung spätmittelhochdeutscher Texte. Bericht über ein Forschungsunternehmen.txt
+/home/ryan/Local/CHUM/276/An historical note on the use of word-frequency contiguities in content analysis.txt
+/home/ryan/Local/CHUM/276/Meetings announced.txt
+/home/ryan/Local/CHUM/276/A Scalogram analysis of the Kansas-Nebraska bill of 1854 and related roll-calls in the house of representatives.txt
+/home/ryan/Local/CHUM/276/Summer institutes announced.txt
+/home/ryan/Local/CHUM/276/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/276/Call for papers.txt
+/home/ryan/Local/CHUM/361/Exploring the potential of word processing for non-native writers.txt
+/home/ryan/Local/CHUM/361/The multi-dimensional concordance_ A new tool for literary research.txt
+/home/ryan/Local/CHUM/361/Toward a theory of rhythm in french poetry_ Computer assisted recognition of rhythmic groups in traditional isometrical alexandrines.txt
+/home/ryan/Local/CHUM/361/Courseware reviews.txt
+/home/ryan/Local/CHUM/310/Book reviews.txt
+/home/ryan/Local/CHUM/310/Automated concordances and word indexes_ The early sixties and the early centers.txt
+/home/ryan/Local/CHUM/310/Letter from Boulder.txt
+/home/ryan/Local/CHUM/310/A universal alphabet for experiments in comparative phonology.txt
+/home/ryan/Local/CHUM/310/A computer aided study of Ecuadorean urban music.txt
+/home/ryan/Local/CHUM/310/Lemmatizing German newspaper texts with the aid of an algorithm.txt
+/home/ryan/Local/CHUM/310/Abstracts and brief reports.txt
+/home/ryan/Local/CHUM/368/Empirical literary research on women and readers.txt
+/home/ryan/Local/CHUM/368/Technical review.txt
+/home/ryan/Local/CHUM/368/NETMET_ A program for generating and interpreting metaphors.txt
+/home/ryan/Local/CHUM/368/Book reviews.txt
+/home/ryan/Local/CHUM/368/A computer study of systematic sound symbolism in classical Japanese verse.txt
+/home/ryan/Local/CHUM/368/Courseware review.txt
+/home/ryan/Local/CHUM/368/The female voice and traditional discourse biases_ The case of francophone African literature.txt
+/home/ryan/Local/CHUM/368/Computer enhanced assessment of case-notes in studies of psychopathology_ The example of an autistic subject.txt
+/home/ryan/Local/CHUM/368/Actors_ Computing dramatic characters that are on stage simultaneously.txt
+/home/ryan/Local/CHUM/356/Technical reviews.txt
+/home/ryan/Local/CHUM/356/Introductions, telecommunications and the scholar.txt
+/home/ryan/Local/CHUM/356/On-line disciplines_ Computer-mediated scholarship in the humanities and social sciences.txt
+/home/ryan/Local/CHUM/356/HUMANIST_ Lessons from a Global Electronic Seminar.txt
+/home/ryan/Local/CHUM/356/Courseware reviews.txt
+/home/ryan/Local/CHUM/356/Networking in the humanities_ Lessons from ANSAXNET.txt
+/home/ryan/Local/CHUM/356/Humanists at the keyboard_ The RLIN database as a scholarly resource.txt
+/home/ryan/Local/CHUM/239/Reviews.txt
+/home/ryan/Local/CHUM/239/Recent publications.txt
+/home/ryan/Local/CHUM/239/News and notes.txt
+/home/ryan/Local/CHUM/239/The next step.txt
+/home/ryan/Local/CHUM/239/The ACLS program for computer studies in the humanities_ Notes on computers and the humanities.txt
+/home/ryan/Local/CHUM/239/Meetings announced.txt
+/home/ryan/Local/CHUM/239/Prospect.txt
+/home/ryan/Local/CHUM/294/Recent publications_001.txt
+/home/ryan/Local/CHUM/294/Recent publications.txt
+/home/ryan/Local/CHUM/294/Reconstitution of illegible portions of a damaged manuscript with the help of the computer.txt
+/home/ryan/Local/CHUM/294/Book reviews.txt
+/home/ryan/Local/CHUM/294/The Berkeley Late Egyptian Dictionary.txt
+/home/ryan/Local/CHUM/294/From co-occurrences to concepts.txt
+/home/ryan/Local/CHUM/294/LEXICO_ A system for lexicographic processing.txt
+/home/ryan/Local/CHUM/294/A computerized spanish verb experiment revisited.txt
+/home/ryan/Local/CHUM/322/bibliofile_ Humanizing the UNIX system.txt
+/home/ryan/Local/CHUM/322/Review essay.txt
+/home/ryan/Local/CHUM/322/Teaching Hebrew with the aid of computers_ The Illinois program.txt
+/home/ryan/Local/CHUM/322/The individualized history survey course and the computer.txt
+/home/ryan/Local/CHUM/322/La Recherche française par ordinateur en langue et littérature_ A Colloquium Report.txt
+/home/ryan/Local/CHUM/290/A system for text and content analysis.txt
+/home/ryan/Local/CHUM/290/Current Scandinavian computer-assisted language and literature research.txt
+/home/ryan/Local/CHUM/290/Quantitative studies and the American revolution.txt
+/home/ryan/Local/CHUM/290/The use of the computer in the analysis of German folksongs.txt
+/home/ryan/Local/CHUM/290/Comment on Harry S. Stout, “Quantitative studies and the American Revolution”.txt
+/home/ryan/Local/CHUM/290/Book reviews.txt
+/home/ryan/Local/CHUM/290/Software review.txt
+/home/ryan/Local/CHUM/290/Computational linguistics and the humanist.txt
+/home/ryan/Local/CHUM/290/Meetings announced.txt
+/home/ryan/Local/CHUM/290/Summer institutes announced.txt
+/home/ryan/Local/CHUM/290/Letter to the editor.txt
+/home/ryan/Local/CHUM/290/Prospect 1976.txt
+/home/ryan/Local/CHUM/290/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/290/Call for papers.txt
+/home/ryan/Local/CHUM/253/Reviews.txt
+/home/ryan/Local/CHUM/253/Directory of scholars active.txt
+/home/ryan/Local/CHUM/253/Phontrns_ An automatic orthographic-to-phonetic conversion system for French.txt
+/home/ryan/Local/CHUM/253/New courses established.txt
+/home/ryan/Local/CHUM/253/News and notes.txt
+/home/ryan/Local/CHUM/253/Computers and old english-a conference report.txt
+/home/ryan/Local/CHUM/253/New publications.txt
+/home/ryan/Local/CHUM/320/Procedures and progress on the dictionary of the old Spanish language.txt
+/home/ryan/Local/CHUM/320/Computer-assisted compilation of a Nahuatl dictionary.txt
+/home/ryan/Local/CHUM/320/Computer dating of medieval inscriptions_ South Indian Tamil.txt
+/home/ryan/Local/CHUM/320/Book reviews.txt
+/home/ryan/Local/CHUM/320/Typologie d'amphores romaines par une methode logique de classification.txt
+/home/ryan/Local/CHUM/320/Narrative theories as computational models_ Reader-oriented theory and artificial intelligence.txt
+/home/ryan/Local/CHUM/381/A Solution to the Problem of Updating Encyclopedias.txt
+/home/ryan/Local/CHUM/381/Some Problems of TEI Markup and Early Printed Books.txt
+/home/ryan/Local/CHUM/381/Editorial.txt
+/home/ryan/Local/CHUM/381/Discovering Hidden Analogies in an Online Humanities Database.txt
+/home/ryan/Local/CHUM/381/A Writing Support Tool with Multiple Views.txt
+/home/ryan/Local/CHUM/381/Text and Illustration_ The digitisation of a Medieval Manuscript.txt
+/home/ryan/Local/CHUM/275/Reviews.txt
+/home/ryan/Local/CHUM/275/Sasanian Pahlavi inscriptions_ A concordance.txt
+/home/ryan/Local/CHUM/275/Directory of scholars active.txt
+/home/ryan/Local/CHUM/275/A new computer format for Webster's seventh collegiate dictionary.txt
+/home/ryan/Local/CHUM/275/Prospect III.txt
+/home/ryan/Local/CHUM/275/A general inquirer analysis of sixteenth century and contemporary catechisms.txt
+/home/ryan/Local/CHUM/275/Summer institutes announced.txt
+/home/ryan/Local/CHUM/275/Meeting announced.txt
+/home/ryan/Local/CHUM/275/Call for papers.txt
+/home/ryan/Local/CHUM/327/The computer music facility at Simon Fraser University.txt
+/home/ryan/Local/CHUM/327/Software review.txt
+/home/ryan/Local/CHUM/327/Structural analysis of drama_ Practical and theoretical implications.txt
+/home/ryan/Local/CHUM/327/Letter from Toronto.txt
+/home/ryan/Local/CHUM/327/The Dictionary of Old English and the final design of its computer system.txt
+/home/ryan/Local/CHUM/327/“Most by numbers judge a poet's song”_ Measuring sound effects in poetry.txt
+/home/ryan/Local/CHUM/327/Book review.txt
+/home/ryan/Local/CHUM/327/Quelques Réflexions sur le Statut Epistémologique du Texte Electronique.txt
+/home/ryan/Local/CHUM/327/Integrating artificial intelligence into literary research_ An invitation to discuss design specifications.txt
+/home/ryan/Local/CHUM/409/A Machine Learning Approach for Identification Thesis and Conclusion Statements in Student Essays.txt
+/home/ryan/Local/CHUM/409/Authorship Attribution and Pastiche.txt
+/home/ryan/Local/CHUM/409/The ACH Page.txt
+/home/ryan/Local/CHUM/409/Extending Dublin Core Metadata to Support the Description and Discovery of Language Resources.txt
+/home/ryan/Local/CHUM/409/Contents of Volume 37.txt
+/home/ryan/Local/CHUM/409/Talking About Meter in SGML.txt
+/home/ryan/Local/CHUM/409/Modeling Task-Oriented Dialogue.txt
+/home/ryan/Local/CHUM/409/Index of Key Words of Volume 37.txt
+/home/ryan/Local/CHUM/409/C-rater_ Automated Scoring of Short-Answer Questions.txt
+/home/ryan/Local/CHUM/288/Book reviews.txt
+/home/ryan/Local/CHUM/288/News and notes.txt
+/home/ryan/Local/CHUM/288/Information processing in dictionary making_ Some technical guidelines.txt
+/home/ryan/Local/CHUM/288/C.L.A.S. and theCantar de Mio Cid.txt
+/home/ryan/Local/CHUM/288/Meetings announced.txt
+/home/ryan/Local/CHUM/288/String manipulation with extended Euler.txt
+/home/ryan/Local/CHUM/288/1976 ACM Computer Science Conference_ A report.txt
+/home/ryan/Local/CHUM/288/The proportions of some Archaic Greek sculptured figures_ A computer analysis.txt
+/home/ryan/Local/CHUM/288/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/288/Call for papers.txt
+/home/ryan/Local/CHUM/308/The making of a masterpiece_ Stephan Crane's the red badge of courage.txt
+/home/ryan/Local/CHUM/308/Software review_ CLOC.txt
+/home/ryan/Local/CHUM/308/Book reviews.txt
+/home/ryan/Local/CHUM/308/Estado actual de la aplicacion de computadoras a textos en español.txt
+/home/ryan/Local/CHUM/308/Computer analysis of a dialectal transition belt.txt
+/home/ryan/Local/CHUM/308/The chronology of Shakespeare's plays_ A statistical study.txt
+/home/ryan/Local/CHUM/308/Abstracts and brief reports.txt
+/home/ryan/Local/CHUM/268/Summer institutes.txt
+/home/ryan/Local/CHUM/268/Symposium on the uses of computers in literary research Edinburgh, 27–30 March 1972.txt
+/home/ryan/Local/CHUM/268/Reviews.txt
+/home/ryan/Local/CHUM/268/Recent publications.txt
+/home/ryan/Local/CHUM/268/Directory of scholars active.txt
+/home/ryan/Local/CHUM/268/Extensions to PL-I for natural-language processing.txt
+/home/ryan/Local/CHUM/268/DOC, 1971_ A Chinese dialect dictionary on computer.txt
+/home/ryan/Local/CHUM/268/RATS_ A middle-level text utility system.txt
+/home/ryan/Local/CHUM/268/News and notes.txt
+/home/ryan/Local/CHUM/268/Books received.txt
+/home/ryan/Local/CHUM/268/Meetings announced.txt
+/home/ryan/Local/CHUM/332/Software reviews.txt
+/home/ryan/Local/CHUM/332/Merriam's applications of Morton's method.txt
+/home/ryan/Local/CHUM/332/Book reviews.txt
+/home/ryan/Local/CHUM/332/An investigation of Morton's method_ A reply.txt
+/home/ryan/Local/CHUM/332/Using computer technology to teach and evaluate prewriting.txt
+/home/ryan/Local/CHUM/332/Beyond SNOBOL_ The icon programming language.txt
+/home/ryan/Local/CHUM/332/The Revenger's Tragedy_ The derivation and interpretation of statistical results for resolving disputed authorship.txt
+/home/ryan/Local/CHUM/379/Bringing Bacon home_ The divergent progress of computer-aided historical research in Europe and the United States.txt
+/home/ryan/Local/CHUM/379/The Common Style of Common Sense.txt
+/home/ryan/Local/CHUM/379/Computers and historians_ Past, present, and future.txt
+/home/ryan/Local/CHUM/379/The Lincoln Legal Papers and the new age of documentary editing.txt
+/home/ryan/Local/CHUM/379/New York, new immigrants 1900_ A teaching framework for historical datasets.txt
+/home/ryan/Local/CHUM/379/Integrating nineteenth-century Canadian and American census data sets.txt
+/home/ryan/Local/CHUM/255/Reviews.txt
+/home/ryan/Local/CHUM/255/Recent publications.txt
+/home/ryan/Local/CHUM/255/Directory of scholars active.txt
+/home/ryan/Local/CHUM/255/The study of old Italian at Utrecht_ A progress report.txt
+/home/ryan/Local/CHUM/255/Abstracts and brief notices_001.txt
+/home/ryan/Local/CHUM/255/News and notes.txt
+/home/ryan/Local/CHUM/255/A generalized index formatting system with photocomposition capabilities.txt
+/home/ryan/Local/CHUM/255/Meetings announced.txt
+/home/ryan/Local/CHUM/255/A computer experiment on the chronology of Xenophon.txt
+/home/ryan/Local/CHUM/255/Computers and the humanities in Britain.txt
+/home/ryan/Local/CHUM/255/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/384/Names Proper and Improper_ Applying the TEI to the Classification of Proper Nouns.txt
+/home/ryan/Local/CHUM/384/Evaluating Learning and Interactions in a Multimedia Environment.txt
+/home/ryan/Local/CHUM/384/The State of Authorship Attribution Studies_ Some Problems and Solutions.txt
+/home/ryan/Local/CHUM/384/Trusting the Electronic Edition.txt
+/home/ryan/Local/CHUM/384/Marking up in TATOE and exporting to SGML.txt
+/home/ryan/Local/CHUM/384/Introduction_ Quo Vadimus_.txt
+/home/ryan/Local/CHUM/384/SGML and the Orland Project_ Descriptive Markup for an Electronic gHistory of Women's Writing.txt
+/home/ryan/Local/CHUM/318/Book reviews.txt
+/home/ryan/Local/CHUM/318/A linguistic preprocessor for record linkage in socio-economic historical research.txt
+/home/ryan/Local/CHUM/318/Literary attribution and likelihood-ratio tests_ The case of the middle EnglishPearl-poems.txt
+/home/ryan/Local/CHUM/318/Abstracts and brief reports.txt
+/home/ryan/Local/CHUM/272/Summer institutes.txt
+/home/ryan/Local/CHUM/272/Verbal materials in machine-readable form.txt
+/home/ryan/Local/CHUM/272/Reviews.txt
+/home/ryan/Local/CHUM/272/A computer-assisted study of the vocabulary of young Navajo children.txt
+/home/ryan/Local/CHUM/272/Annual bibliography for 1972 and supplement to preceding years.txt
+/home/ryan/Local/CHUM/272/Meetings announced.txt
+/home/ryan/Local/CHUM/272/Samuel Beckett's Lessness_ An exercise in decomposition.txt
+/home/ryan/Local/CHUM/272/Establishing a German Root System by computer.txt
+/home/ryan/Local/CHUM/272/Call for papers.txt
+/home/ryan/Local/CHUM/346/Volume functions of historical texts and the amplitude correlation principle.txt
+/home/ryan/Local/CHUM/346/Announcement.txt
+/home/ryan/Local/CHUM/346/Poetry I_ Teaching verse with CAI.txt
+/home/ryan/Local/CHUM/346/DOC 1988_ The modernization of a chinese dialect dictionary on computer.txt
+/home/ryan/Local/CHUM/346/Courseware reviews.txt
+/home/ryan/Local/CHUM/346/Comparison of musical sequences.txt
+/home/ryan/Local/CHUM/346/Notes and news.txt
+/home/ryan/Local/CHUM/346/Book review.txt
+/home/ryan/Local/CHUM/390/Dancing to the Telephone_ Network Requirements and Opportunities.txt
+/home/ryan/Local/CHUM/390/Electric Shakespeares, The Arden Shakespeare CD ROM.txt
+/home/ryan/Local/CHUM/390/The Feasibility of Incremental Linguistic Annotation.txt
+/home/ryan/Local/CHUM/390/The JISC Electronic Libraries Programme.txt
+/home/ryan/Local/CHUM/390/Andrew Leonard, Bots_ The Origin of New Species.txt
+/home/ryan/Local/CHUM/390/How Variable May a Constant be_ Measures of Lexical Richness in Perspective.txt
+/home/ryan/Local/CHUM/328/Software reviews.txt
+/home/ryan/Local/CHUM/328/Modeling emotional tone in stories using tension levels and categorical states.txt
+/home/ryan/Local/CHUM/328/Stylistics and the computer_ Classroom mix and match_.txt
+/home/ryan/Local/CHUM/328/Cluster analysis for the computer-assisted statistical analysis of melodies.txt
+/home/ryan/Local/CHUM/328/Quelques Résultats d'une Analyse Automatique du Discours Duplessiste.txt
+/home/ryan/Local/CHUM/328/Creating the electronic new Oxford english dictionary.txt
+/home/ryan/Local/CHUM/328/Book review.txt
+/home/ryan/Local/CHUM/328/Toward a language for human movement.txt
+/home/ryan/Local/CHUM/273/Reviews.txt
+/home/ryan/Local/CHUM/273/Recent publications.txt
+/home/ryan/Local/CHUM/273/Directory of scholars active.txt
+/home/ryan/Local/CHUM/273/The index and filing system used by the “inventaire general des monuments et des richesses artistiques de la France”.txt
+/home/ryan/Local/CHUM/273/News and notes.txt
+/home/ryan/Local/CHUM/273/On the distinction between a novel and a romance_ A discriminant analysis.txt
+/home/ryan/Local/CHUM/273/Meetings announced.txt
+/home/ryan/Local/CHUM/273/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/273/The Shakespeare Association of America.txt
+/home/ryan/Local/CHUM/273/Call for papers.txt
+/home/ryan/Local/CHUM/296/An artificial intelligence approach to the study of the humanist literary movement in XIVth and XVth century France.txt
+/home/ryan/Local/CHUM/296/Reviews.txt
+/home/ryan/Local/CHUM/296/A survey of computer-assisted research in modern German.txt
+/home/ryan/Local/CHUM/296/Hardware for the humanist_ What you should know and why.txt
+/home/ryan/Local/CHUM/296/News and notes.txt
+/home/ryan/Local/CHUM/296/The new political history_ Progress and prospects.txt
+/home/ryan/Local/CHUM/296/Letter to the editor.txt
+/home/ryan/Local/CHUM/407/Another Perspective on Vocabulary Richness.txt
+/home/ryan/Local/CHUM/407/Locating the Eureka Stockade_ Use of a geographical information system (GIS) in a historiographical research context.txt
+/home/ryan/Local/CHUM/407/The Were-Subjunctive in British Rural Dialects_ Marrying Corpus and Questionnaire Data.txt
+/home/ryan/Local/CHUM/407/The Value of Mentoring_ Young Scholars in IT and the Humanities.txt
+/home/ryan/Local/CHUM/407/Chronological Distribution of Information in Historical Texts.txt
+/home/ryan/Local/CHUM/407/Annoucement, Web X_ A Decade of the World Wide Web.txt
+/home/ryan/Local/CHUM/407/Vocabulary in interviews as related to respondent characteristics.txt
+/home/ryan/Local/CHUM/287/Software reviews.txt
+/home/ryan/Local/CHUM/287/Recent publications.txt
+/home/ryan/Local/CHUM/287/Machine readable archives and future history.txt
+/home/ryan/Local/CHUM/287/Book reviews.txt
+/home/ryan/Local/CHUM/287/News and notes.txt
+/home/ryan/Local/CHUM/287/Meetings announced.txt
+/home/ryan/Local/CHUM/287/Summer institutes announced.txt
+/home/ryan/Local/CHUM/287/On the role of words and phrases in automatic text analysis.txt
+/home/ryan/Local/CHUM/287/Comparative studies of musical instruments.txt
+/home/ryan/Local/CHUM/287/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/287/Annual bibliography for 1975 and supplement to preceding years.txt
+/home/ryan/Local/CHUM/287/Call for papers.txt
+/home/ryan/Local/CHUM/354/A study of sex-role stereotyping in the Oxford English Dictionary 2E.txt
+/home/ryan/Local/CHUM/354/Automated syntactic text description enhancement_ The thematic structure of discourse utterances.txt
+/home/ryan/Local/CHUM/354/Editorial.txt
+/home/ryan/Local/CHUM/354/Courseware Reviews.txt
+/home/ryan/Local/CHUM/354/A system for natural language sentence generation.txt
+/home/ryan/Local/CHUM/354/About the statistical analysis of co-occurrence.txt
+/home/ryan/Local/CHUM/354/Estimating changes in collocations of key words across a large text_ A case study of Coleridge's notebooks.txt
+/home/ryan/Local/CHUM/300/A computer-assisted study of dissonance in the masses of Josquin Desprez.txt
+/home/ryan/Local/CHUM/300/Formulaic analysis of the computer-accessible corpus of Latvian sun-songs.txt
+/home/ryan/Local/CHUM/300/Software review_ GIPSY.txt
+/home/ryan/Local/CHUM/300/A system for interactive encoding of music scores under computer control.txt
+/home/ryan/Local/CHUM/300/Sur la confection d'un lexique pour l'analyse automatique.txt
+/home/ryan/Local/CHUM/300/Book reviews.txt
+/home/ryan/Local/CHUM/300/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/344/Interactive collation on a microcomputer_ The URICA! Approach.txt
+/home/ryan/Local/CHUM/344/Electric poet.txt
+/home/ryan/Local/CHUM/344/An information-theoretic approach to the written transmission of old English.txt
+/home/ryan/Local/CHUM/344/Private tutor.txt
+/home/ryan/Local/CHUM/344/Fortier's accusations_ A reply.txt
+/home/ryan/Local/CHUM/344/IZE version 1.txt
+/home/ryan/Local/CHUM/344/EndNote.txt
+/home/ryan/Local/CHUM/344/The perfect word.txt
+/home/ryan/Local/CHUM/344/The Hewlett-Packard DeskJet printer.txt
+/home/ryan/Local/CHUM/344/Book review_001.txt
+/home/ryan/Local/CHUM/344/HyperTools # 1, HyperTools # 2, stack cleaner.txt
+/home/ryan/Local/CHUM/344/Notes and news.txt
+/home/ryan/Local/CHUM/344/Book review.txt
+/home/ryan/Local/CHUM/344/The cT language.txt
+/home/ryan/Local/CHUM/301/Directory of scholars active.txt
+/home/ryan/Local/CHUM/301/Letter from Prague.txt
+/home/ryan/Local/CHUM/301/Book reviews.txt
+/home/ryan/Local/CHUM/301/A survey of approaches and issues in machine-aided translation systems.txt
+/home/ryan/Local/CHUM/301/A text processing system for the preparation of critical editions.txt
+/home/ryan/Local/CHUM/301/The Third USA-Japan Computer Conference_ A report.txt
+/home/ryan/Local/CHUM/301/Pronouns and genre in Shakespeare’s drama.txt
+/home/ryan/Local/CHUM/301/Computer analysis in German history.txt
+/home/ryan/Local/CHUM/301/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/386/HiSQL_ A Front-end Query System for Historical Relational Databases.txt
+/home/ryan/Local/CHUM/386/A Stylometric Analysis of Craquelure.txt
+/home/ryan/Local/CHUM/386/COMLEX Syntax – A Large Syntactic Dictionary for Natural Language Processing.txt
+/home/ryan/Local/CHUM/357/Microsoft source profiler_ Performance analysis tool.txt
+/home/ryan/Local/CHUM/357/PowerEdit.txt
+/home/ryan/Local/CHUM/357/American heritage electronic dictionary, release 1.01.txt
+/home/ryan/Local/CHUM/357/The awk programming language.txt
+/home/ryan/Local/CHUM/357/Courseware in the humanities_ Expanded horizons.txt
+/home/ryan/Local/CHUM/357/Microsoft BASIC professional development system.txt
+/home/ryan/Local/CHUM/357/Some perspectives on teaching computers and the humanities.txt
+/home/ryan/Local/CHUM/357/Automatic rule discovery for field work in anthropology.txt
+/home/ryan/Local/CHUM/357/Statistical navigator professional.txt
+/home/ryan/Local/CHUM/357/The Medieval and Early Modern Data Bank.txt
+/home/ryan/Local/CHUM/357/Signature 1.00.txt
+/home/ryan/Local/CHUM/357/SEEN_ Tutorials for critical reading.txt
+/home/ryan/Local/CHUM/357/Ez Japanese writer.txt
+/home/ryan/Local/CHUM/357/The National Portrait Gallery CD-ROM.txt
+/home/ryan/Local/CHUM/357/Beauty and the beast_ New approaches to teaching computing for humanities students at the University of Aberdeen.txt
+/home/ryan/Local/CHUM/357/Developing and evaluating language courseware.txt
+/home/ryan/Local/CHUM/398/Investigating the Influence of Representations and Algorithms in Music Classification.txt
+/home/ryan/Local/CHUM/398/Pattern Processing in Melodic Sequences_ Challenges, Caveats and Prospects.txt
+/home/ryan/Local/CHUM/398/Preface_ The AISB'99 Convention and the Focus Workshop.txt
+/home/ryan/Local/CHUM/398/Introduction_ Pattern Processing in Music Analysis and Creation.txt
+/home/ryan/Local/CHUM/398/Approximate Musical Evolution.txt
+/home/ryan/Local/CHUM/398/Perceptual Issues in Music Pattern Recognition_ Complexity of Rhythm and Key Finding.txt
+/home/ryan/Local/CHUM/398/Representing Melodic Patterns as Networks of Elaborations.txt
+/home/ryan/Local/CHUM/295/Verbal materials in machine-readable form.txt
+/home/ryan/Local/CHUM/295/Knowledge representation for automated understanding of natural language discourse.txt
+/home/ryan/Local/CHUM/295/Recent publications.txt
+/home/ryan/Local/CHUM/295/Understanding understanding poetry.txt
+/home/ryan/Local/CHUM/295/The computer and the concept of text.txt
+/home/ryan/Local/CHUM/295/Variable rules and literary style.txt
+/home/ryan/Local/CHUM/295/News and notes.txt
+/home/ryan/Local/CHUM/295/Some notions of “similarity” among lines of text.txt
+/home/ryan/Local/CHUM/295/Computational linguistics and statistics in the analysis of the Montreal French Corpus.txt
+/home/ryan/Local/CHUM/295/Programs and texts.txt
+/home/ryan/Local/CHUM/295/Morphological analysis and lexicon design for natural-language processing.txt
+/home/ryan/Local/CHUM/311/The national tune index_ A systems overview.txt
+/home/ryan/Local/CHUM/311/Book reviews.txt
+/home/ryan/Local/CHUM/311/Aids for editing Walden.txt
+/home/ryan/Local/CHUM/311/Computer applications for an edition of Robert Burton's The Anatomy of Melancholy_ A system for scholarly publishing.txt
+/home/ryan/Local/CHUM/311/Automated concordances and word indexes_ The process, the programs, and the products.txt
+/home/ryan/Local/CHUM/311/Hardware review_ The Kurzweil data entry machine.txt
+/home/ryan/Local/CHUM/311/Abstracts and brief reports.txt
+/home/ryan/Local/CHUM/270/A national science computer network.txt
+/home/ryan/Local/CHUM/270/Reviews.txt
+/home/ryan/Local/CHUM/270/Recent publications.txt
+/home/ryan/Local/CHUM/270/Directory of scholars active.txt
+/home/ryan/Local/CHUM/270/News and notes.txt
+/home/ryan/Local/CHUM/270/Computers and classical literature_ 1971–1972.txt
+/home/ryan/Local/CHUM/270/Wrapping up the package_ Critical thoughts on applications software for social data analysis.txt
+/home/ryan/Local/CHUM/270/Meetings announced.txt
+/home/ryan/Local/CHUM/270/Clio and computers_ Moving into phase II, 1970–1972.txt
+/home/ryan/Local/CHUM/270/Letter to the editor.txt
+/home/ryan/Local/CHUM/270/Call for papers.txt
+/home/ryan/Local/CHUM/389/Electronic Publishing at Routledge.txt
+/home/ryan/Local/CHUM/389/The Garden of Forking Paths – Forms of Scholarship and the ‘Formations’ Pre-Prints System for Cultural Studies and Related Fields.txt
+/home/ryan/Local/CHUM/389/Literature Online – Building a Home for English and American Literature on the World Wide Web.txt
+/home/ryan/Local/CHUM/389/Publishing an Electronic Textual Edition_ The Case of The Wife of Bath's Prologue on CD-ROM.txt
+/home/ryan/Local/CHUM/257/Reviews.txt
+/home/ryan/Local/CHUM/257/New courses listed.txt
+/home/ryan/Local/CHUM/257/Recent publications.txt
+/home/ryan/Local/CHUM/257/News and notes.txt
+/home/ryan/Local/CHUM/257/An extended character set for humanities computer printout.txt
+/home/ryan/Local/CHUM/257/Computer-produced mapping of dialectal variation.txt
+/home/ryan/Local/CHUM/257/Annual bibliography for 1969.txt
+/home/ryan/Local/CHUM/257/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/257/SNAP — A programming language for humanists.txt
+/home/ryan/Local/CHUM/350/Recent developments in machine translation.txt
+/home/ryan/Local/CHUM/350/Book reviews.txt
+/home/ryan/Local/CHUM/350/Linguistically based functions in information retrieval_ PADOK and the German Patent Information System.txt
+/home/ryan/Local/CHUM/350/Introduction.txt
+/home/ryan/Local/CHUM/350/Integration of communicative hand movements into human-computer-interaction.txt
+/home/ryan/Local/CHUM/350/Discourse analysis for a Legal Expert System.txt
+/home/ryan/Local/CHUM/350/Courseware reviews.txt
+/home/ryan/Local/CHUM/350/The historical workstation project.txt
+/home/ryan/Local/CHUM/350/Information and pragmatic value-adding_ Language games and information science.txt
+/home/ryan/Local/CHUM/350/Computers and legal reasoning_ Developments in Germany.txt
+/home/ryan/Local/CHUM/350/Technology or methodology_ Quantitative historical social research in Germany.txt
+/home/ryan/Local/CHUM/316/A statistical study of authorship in the Corpus Lysiacum.txt
+/home/ryan/Local/CHUM/316/Computers and philosophical lexicography_ The activities of the Lessico Intellettuale Europeo.txt
+/home/ryan/Local/CHUM/316/Automated concordances and word-indexes_ Machine decisions and editorial revisions.txt
+/home/ryan/Local/CHUM/316/Book reviews.txt
+/home/ryan/Local/CHUM/316/Historians, programmers, and computer languages_ Apl in historical research.txt
+/home/ryan/Local/CHUM/316/Microcomputers and large data bases.txt
+/home/ryan/Local/CHUM/316/Abstracts and brief reports.txt
+/home/ryan/Local/CHUM/244/Reviews.txt
+/home/ryan/Local/CHUM/244/Recent publications.txt
+/home/ryan/Local/CHUM/244/Music and computing_ The present situation.txt
+/home/ryan/Local/CHUM/244/Winged words_ Varieties of computer application to literature.txt
+/home/ryan/Local/CHUM/244/News and notes.txt
+/home/ryan/Local/CHUM/244/Computers and the visual arts.txt
+/home/ryan/Local/CHUM/244/Computers and the classics.txt
+/home/ryan/Local/CHUM/244/Some computer applications in political science.txt
+/home/ryan/Local/CHUM/244/New hardware for the humanities.txt
+/home/ryan/Local/CHUM/244/The copyright revision bill in relation to computers.txt
+/home/ryan/Local/CHUM/244/Meetings announced.txt
+/home/ryan/Local/CHUM/244/Computer applications in archaeology.txt
+/home/ryan/Local/CHUM/341/Software reviews.txt
+/home/ryan/Local/CHUM/341/Announcement.txt
+/home/ryan/Local/CHUM/341/Initial effects of word processing on writing quality and writing anxiety of freshman writers.txt
+/home/ryan/Local/CHUM/341/A procedure to determine authorship using pairs of consecutive words_ More evidence for Wilkins's participation in Pericles.txt
+/home/ryan/Local/CHUM/341/Two relational databases for finding text paraphrases in musicological research.txt
+/home/ryan/Local/CHUM/341/Book review.txt
+/home/ryan/Local/CHUM/307/Computer-based Hindi pedagogy.txt
+/home/ryan/Local/CHUM/307/Toward a syntactic differentiation of period style in modern drama_ Significant between-play variability in 21 english-language plays.txt
+/home/ryan/Local/CHUM/307/Book reviews.txt
+/home/ryan/Local/CHUM/307/The annals of computing_ The greek testament.txt
+/home/ryan/Local/CHUM/307/Principles and modifications of local genealogical algorithms in textual history.txt
+/home/ryan/Local/CHUM/307/Computerized full-text retrieval systems and research in the humanities_ The responsa project.txt
+/home/ryan/Local/CHUM/307/Abstracts and brief reports.txt
+/home/ryan/Local/CHUM/323/Computation in the philosophy curriculum.txt
+/home/ryan/Local/CHUM/323/Computer simulations and the far reaches of computer-assisted instruction.txt
+/home/ryan/Local/CHUM/323/The challenge for computer-assisted rhetoric.txt
+/home/ryan/Local/CHUM/323/Introduction the adolescence of computer-assisted instruction.txt
+/home/ryan/Local/CHUM/323/Computers come of age in writing instruction.txt
+/home/ryan/Local/CHUM/323/Book reviews.txt
+/home/ryan/Local/CHUM/323/Designing instructional materials for the humanities_ Is there a role for interactive videodisc technology_.txt
+/home/ryan/Local/CHUM/323/Blueprint for a comprehensive foreign language CAI curriculum.txt
+/home/ryan/Local/CHUM/323/Language authoring with “comet”.txt
+/home/ryan/Local/CHUM/323/Computer-assisted learning for school pupils of history, French and english in the UK.txt
+/home/ryan/Local/CHUM/323/Errata for “the authorship of a love's complaint” by M.W.A. Smith, in 18_1 (Jan.–Mar. 1984)..txt
+/home/ryan/Local/CHUM/323/Generic or specific_ Having it both ways with generative CAI.txt
+/home/ryan/Local/CHUM/323/ESL applications of the computer-controlled videodisc player.txt
+/home/ryan/Local/CHUM/323/Computer-Based Instruction in musicianship training_ Some issues and answers.txt
+/home/ryan/Local/CHUM/323/The future of teaching the past_ computer-assisted instruction in history.txt
+/home/ryan/Local/CHUM/412/Uncovering Text–Music Connections with a Relational Database_ Towards an Objective Measurement of Melodic Pitch Diversity in Relation to Literary Themes in Bach's Church Cantata Recitatives.txt
+/home/ryan/Local/CHUM/412/Bitext Generation Through Rich Markup.txt
+/home/ryan/Local/CHUM/412/Article_ Collating Texts Using Progressive Multiple Alignment.txt
+/home/ryan/Local/CHUM/412/Networked Collaborative Learning in the Study of Modern History and Literature.txt
+/home/ryan/Local/CHUM/412/Film as Explicador for Hypertext.txt
+/home/ryan/Local/CHUM/412/Book Review_ Marie-Laure Ryan, Narrative as Virtual Reality_ Immersion and Interactivity in Literature and Electronic Media, Johns Hopkins University Press, Baltimore, 2001. 399 p..txt
+/home/ryan/Local/CHUM/412/Book Review_ Noah Wardrip-Fruin and Nick Montfort (eds.), The New Media Reader, MIT Press, Cambridge, MA, 2003. 823 p..txt
+/home/ryan/Local/CHUM/339/Error categories, detection, and reduction in a musical database.txt
+/home/ryan/Local/CHUM/339/Publisher's announcements.txt
+/home/ryan/Local/CHUM/339/The mathematical analysis of style_ A correlation-based approach.txt
+/home/ryan/Local/CHUM/339/SGML-based markup for literary texts_ Two problems and some solutions.txt
+/home/ryan/Local/CHUM/339/Announcement.txt
+/home/ryan/Local/CHUM/339/The use of CAI to enhance human interaction in the learning of deductive proof construction.txt
+/home/ryan/Local/CHUM/339/Software review.txt
+/home/ryan/Local/CHUM/339/Unseen users, unknown systems_ Computer design for a scholar's dictionary.txt
+/home/ryan/Local/CHUM/339/A study of words relating to youth and old age in the plays of euripides and its special implications for Euripides' Suppliant Women.txt
+/home/ryan/Local/CHUM/326/Software reviews.txt
+/home/ryan/Local/CHUM/326/Processing emblems with the computer.txt
+/home/ryan/Local/CHUM/326/The grinnell house round table on a center for computer-aided humanities research.txt
+/home/ryan/Local/CHUM/326/Book reviews.txt
+/home/ryan/Local/CHUM/326/Disambiguation by short contexts.txt
+/home/ryan/Local/CHUM/326/A poetic formula inBeowulf and seven other old English poems_ A computer study.txt
+/home/ryan/Local/CHUM/326/Elements of a statistical approach to the question of authorship in music.txt
+/home/ryan/Local/CHUM/337/The use of natural language processing in computer-assisted language instruction.txt
+/home/ryan/Local/CHUM/337/SML_ A structured musical language.txt
+/home/ryan/Local/CHUM/337/Literary criticism and literary computing_ The difficulties of a synthesis.txt
+/home/ryan/Local/CHUM/337/Software Review.txt
+/home/ryan/Local/CHUM/337/Book Reviews.txt
+/home/ryan/Local/CHUM/337/The acquisition, representation and reconstruction of printed music by computer_ A review.txt
+/home/ryan/Local/CHUM/337/CD-ROM and scholarly research in the humanities.txt
+/home/ryan/Local/CHUM/337/Data transfers between incompatible operating systems.txt
+/home/ryan/Local/CHUM/351/Technical Reviews.txt
+/home/ryan/Local/CHUM/351/Synoname1_ The Getty's new approach to pattern matching for personal names.txt
+/home/ryan/Local/CHUM/351/Courseware Reviews.txt
+/home/ryan/Local/CHUM/351/Evaluating evolution_ Naturalistic inquiry and the Perseus Project.txt
+/home/ryan/Local/CHUM/351/Primary process content in the King James Bible_ The five stages of Christian mysticism.txt
+/home/ryan/Local/CHUM/351/A touchstone for the bard.txt
+/home/ryan/Local/CHUM/351/Book review.txt
+/home/ryan/Local/CHUM/252/Reviews.txt
+/home/ryan/Local/CHUM/252/Annual bibliography for 1968.txt
+/home/ryan/Local/CHUM/252/Computer-stylistics seminar_ A report.txt
+/home/ryan/Local/CHUM/252/News and notes.txt
+/home/ryan/Local/CHUM/252/Creativity, computers and copyright.txt
+/home/ryan/Local/CHUM/252/Concordance and stylistic analysis of six Elizabethan Sonnet sequences.txt
+/home/ryan/Local/CHUM/252/Literary materials in machine-readable form.txt
+/home/ryan/Local/CHUM/252/New course established.txt
+/home/ryan/Local/CHUM/252/Meetings announced.txt
+/home/ryan/Local/CHUM/252/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/280/Reviews.txt
+/home/ryan/Local/CHUM/280/Directory of scholars active.txt
+/home/ryan/Local/CHUM/280/News and notes.txt
+/home/ryan/Local/CHUM/280/SELECT_ A computer program to identify associationally rich words for content analysis.txt
+/home/ryan/Local/CHUM/280/Meetings announced.txt
+/home/ryan/Local/CHUM/280/Summer institutes announced.txt
+/home/ryan/Local/CHUM/280/The morphology of chinese characters_ A survey of models and applications.txt
+/home/ryan/Local/CHUM/280/DO-RE-MI_ A program that recognizes music notation.txt
+/home/ryan/Local/CHUM/280/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/280/Call for papers.txt
+/home/ryan/Local/CHUM/304/Semi-automatic construction of semantic concordances.txt
+/home/ryan/Local/CHUM/304/Directory of scholars active.txt
+/home/ryan/Local/CHUM/304/The contextological dictionary_ Use in programmed language teaching.txt
+/home/ryan/Local/CHUM/304/Book reviews.txt
+/home/ryan/Local/CHUM/304/Poetry and computers_ Experimenting with the communal text.txt
+/home/ryan/Local/CHUM/304/Software review.txt
+/home/ryan/Local/CHUM/304/Zur Formelhaftigkeit in Heinrich Wittenwilers ‘Ring’_ Wortwiederholungen und grammatische Versmuster.txt
+/home/ryan/Local/CHUM/304/Letter from Nancy.txt
+/home/ryan/Local/CHUM/304/Abstracts and brief reports.txt
+/home/ryan/Local/CHUM/405/So Many Hardballs, So Few Over the Plate.txt
+/home/ryan/Local/CHUM/405/Stylistic Constancy and Change Across Literary Corpora_ Using Measures of Lexical Richness to Date Works.txt
+/home/ryan/Local/CHUM/405/Contents of Volume 36.txt
+/home/ryan/Local/CHUM/405/Index of Key Words of Volume 36.txt
+/home/ryan/Local/CHUM/405/Statistical Morphological Disambiguation for Agglutinative Languages.txt
+/home/ryan/Local/CHUM/405/The Evolution of Humanities Computing Centers.txt
+/home/ryan/Local/CHUM/405/Korean Combinatory Categorial Grammar and Statistical Parsing.txt
+/home/ryan/Local/CHUM/377/Response to Elliot and Valenza, “And then there were none”.txt
+/home/ryan/Local/CHUM/377/Editorial.txt
+/home/ryan/Local/CHUM/377/And then there were none_ Winnowing the Shakespeare claimants.txt
+/home/ryan/Local/CHUM/377/Tamburlaine stalks in Henry VI.txt
+/home/ryan/Local/CHUM/377/Traditional and emotional stylometric analysis of the songs of Beatles Paul McCartney and John Lennon.txt
+/home/ryan/Local/CHUM/394/The Emergence of a Digital Cinema.txt
+/home/ryan/Local/CHUM/394/Attitudes of the Canadian Research Community toward Creating and Accessing Digitized Facsimile Collections of Historical Documents.txt
+/home/ryan/Local/CHUM/394/Managing Full-indexed Audiovisual Documents_ A New Perspective for the Humanities.txt
+/home/ryan/Local/CHUM/394/No Longer a Shot in the Dark_ Engineering a Robust Environment for Film Study.txt
+/home/ryan/Local/CHUM/394/Introduction to Special Topic Issue of Computers and the Humanities_ “Digital Images”.txt
+/home/ryan/Local/CHUM/394/Access to Pictorial Material_ A Review of Current Research and Future Prospects.txt
+/home/ryan/Local/CHUM/394/Six Ways from Sunday_ Approaches to Indexing Digital Text Images.txt
+/home/ryan/Local/CHUM/246/Computers and the classics_ A supplement.txt
+/home/ryan/Local/CHUM/246/Reviews.txt
+/home/ryan/Local/CHUM/246/Recent publications.txt
+/home/ryan/Local/CHUM/246/Conference on quantitative data in western european history_ A report.txt
+/home/ryan/Local/CHUM/246/News and notes.txt
+/home/ryan/Local/CHUM/246/Literary materials in machine-readable form.txt
+/home/ryan/Local/CHUM/246/Automation in American libraries.txt
+/home/ryan/Local/CHUM/246/Meetings announced.txt
+/home/ryan/Local/CHUM/246/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/364/A database for linguists_ Intelligent querying and increase of data.txt
+/home/ryan/Local/CHUM/364/μ-EYEBALL_ An interactive system for producing stylistic descriptions and comparisons.txt
+/home/ryan/Local/CHUM/364/The syntactic analysis of arabic by machine.txt
+/home/ryan/Local/CHUM/364/Musical chronology by seriation.txt
+/home/ryan/Local/CHUM/364/The computer in literary analysis_ UsingTACT with students.txt
+/home/ryan/Local/CHUM/364/Book review.txt
+/home/ryan/Local/CHUM/284/Culture, structure, and the “new” history_ A critique and an agenda.txt
+/home/ryan/Local/CHUM/284/Recent publications.txt
+/home/ryan/Local/CHUM/284/Trends in computer applications to literature.txt
+/home/ryan/Local/CHUM/284/Situation and prospects of computer-aided literary research in Spanish.txt
+/home/ryan/Local/CHUM/284/News and notes.txt
+/home/ryan/Local/CHUM/284/On automatic speech-understanding systems.txt
+/home/ryan/Local/CHUM/284/The “new” history as applied social science_ A review essay.txt
+/home/ryan/Local/CHUM/284/Meetings announced.txt
+/home/ryan/Local/CHUM/284/Summer institutes announced.txt
+/home/ryan/Local/CHUM/284/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/284/Call for papers.txt
+/home/ryan/Local/CHUM/367/Technical reviews.txt
+/home/ryan/Local/CHUM/367/Teaching new tricks to an old map.txt
+/home/ryan/Local/CHUM/367/E-parser_ An implementation of a deterministic GB-related parsing system.txt
+/home/ryan/Local/CHUM/367/The implementation of grammar in a hypermedia system for language learning.txt
+/home/ryan/Local/CHUM/367/Exploiting structural similarities in machine translation.txt
+/home/ryan/Local/CHUM/367/Metacognitive learning techniques in the user interface_ Advance organizers and captioning.txt
+/home/ryan/Local/CHUM/367/Multi-dimensional texts in a one-dimensional medium.txt
+/home/ryan/Local/CHUM/367/Object oriented music analysis.txt
+/home/ryan/Local/CHUM/367/Courseware reviews.txt
+/home/ryan/Local/CHUM/367/Making an information system for the humanities.txt
+/home/ryan/Local/CHUM/367/The encoding of highly structured historical sources.txt
+/home/ryan/Local/CHUM/367/Why isn't Norway world champion in historical informatics_.txt
+/home/ryan/Local/CHUM/367/ICAME-Quo Vadis_ Reflections on the use of computer corpora in linguistics.txt
+/home/ryan/Local/CHUM/247/Reviews.txt
+/home/ryan/Local/CHUM/247/Recent publications.txt
+/home/ryan/Local/CHUM/247/Annual bibliography for 1967.txt
+/home/ryan/Local/CHUM/247/News and notes.txt
+/home/ryan/Local/CHUM/247/Some uses of a grammatical concordance.txt
+/home/ryan/Local/CHUM/247/Meetings announced.txt
+/home/ryan/Local/CHUM/247/Computerized folk song research and the problem of variants.txt
+/home/ryan/Local/CHUM/247/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/353/Technical reviews.txt
+/home/ryan/Local/CHUM/353/Progress in stylistics_ Theory, statistics, computers.txt
+/home/ryan/Local/CHUM/353/Statistical analysis of literature_ A retrospective on Computers and the Humanities, 1966–1990.txt
+/home/ryan/Local/CHUM/353/The very pulse of the machine_ Three trends toward improvement in electronic versions of humanities texts.txt
+/home/ryan/Local/CHUM/353/Computing in musicology, 1966–91.txt
+/home/ryan/Local/CHUM/353/Humanities computing 25 years later.txt
+/home/ryan/Local/CHUM/353/Opinion.txt
+/home/ryan/Local/CHUM/353/Courseware reviews.txt
+/home/ryan/Local/CHUM/353/Historical editions in the States.txt
+/home/ryan/Local/CHUM/353/Electronic lexicography.txt
+/home/ryan/Local/CHUM/353/Book review.txt
+/home/ryan/Local/CHUM/378/Book Reviews.txt
+/home/ryan/Local/CHUM/378/A rationale for teacher education and CALL_ The holistic view and its implications.txt
+/home/ryan/Local/CHUM/378/Courseware reviews.txt
+/home/ryan/Local/CHUM/378/Word frequency distributions and lexical semantics.txt
+/home/ryan/Local/CHUM/378/Conceptual modeling versus visual modeling_ a technological key to building consensus.txt
+/home/ryan/Local/CHUM/245/Recent publications.txt
+/home/ryan/Local/CHUM/245/Directory of scholars active.txt
+/home/ryan/Local/CHUM/245/A correction.txt
+/home/ryan/Local/CHUM/245/News and notes.txt
+/home/ryan/Local/CHUM/245/Meetings announced.txt
+/home/ryan/Local/CHUM/245/Futures_ A non-summary of the EDUCOM Symposium on the computer and humanistic studies, 8, 9, 10 June 1967.txt
+/home/ryan/Local/CHUM/245/Computer study of medieval german poetry_ A conference report.txt
+/home/ryan/Local/CHUM/245/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/333/Software reviews.txt
+/home/ryan/Local/CHUM/333/The Donne variorum textual collation program.txt
+/home/ryan/Local/CHUM/333/Book reviews.txt
+/home/ryan/Local/CHUM/333/Computer detection of errors in natural language texts_ Some research on pattern-matching.txt
+/home/ryan/Local/CHUM/333/Computational considerations for the processing of explanatory literal analogies and expressive metaphors.txt
+/home/ryan/Local/CHUM/382/An Estonian Morphological Analyser and the Impact of a Corpus on Its Development.txt
+/home/ryan/Local/CHUM/382/_I Don’t Believe in Word Senses_.txt
+/home/ryan/Local/CHUM/382/MtScript_ A Multi Lingual Text Editor.txt
+/home/ryan/Local/CHUM/382/Senses and Texts.txt
+/home/ryan/Local/CHUM/372/On the utility of content analysis in author attribution_The Federalist.txt
+/home/ryan/Local/CHUM/372/Virtuoso pianism from the QWERTY keyboard_ The electronic realization of Liszt's scores.txt
+/home/ryan/Local/CHUM/372/Technical review.txt
+/home/ryan/Local/CHUM/372/Electronic texts and the internet_ A review ofThe English Server.txt
+/home/ryan/Local/CHUM/372/Courseware review.txt
+/home/ryan/Local/CHUM/372/Character representation.txt
+/home/ryan/Local/CHUM/372/An application of artificial intelligence to the choreography of dance.txt
+/home/ryan/Local/CHUM/372/Generating non-intentional semantically-correct english sentences in an object-oriented environment.txt
+/home/ryan/Local/CHUM/372/By their (new) words shall ye know them_ Edith Wharton, Marion Mainwaring, andThe Buccaneers.txt
+/home/ryan/Local/CHUM/372/Book review.txt
+/home/ryan/Local/CHUM/277/Reviews.txt
+/home/ryan/Local/CHUM/277/Recent publications.txt
+/home/ryan/Local/CHUM/277/Statistical analysis of dialectal boundaries.txt
+/home/ryan/Local/CHUM/277/Computer-assisted study of early German_ The Mannheim symposium of 1973.txt
+/home/ryan/Local/CHUM/277/Concordances Syntagmatiques et Analyse de Surface.txt
+/home/ryan/Local/CHUM/277/News and notes.txt
+/home/ryan/Local/CHUM/277/Analysis of corpora of variations.txt
+/home/ryan/Local/CHUM/277/Meetings announced.txt
+/home/ryan/Local/CHUM/277/A system for music printing by computer.txt
+/home/ryan/Local/CHUM/277/Thought clusters in early greek oral poetry.txt
+/home/ryan/Local/CHUM/277/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/277/Call for papers.txt
+/home/ryan/Local/CHUM/281/Reviews.txt
+/home/ryan/Local/CHUM/281/Recent publications.txt
+/home/ryan/Local/CHUM/281/Tables for comparing the richness and structure of vocabulary in texts of different lengths.txt
+/home/ryan/Local/CHUM/281/A quantitative analysis of Fiefs in medieval Champagne.txt
+/home/ryan/Local/CHUM/281/News and notes.txt
+/home/ryan/Local/CHUM/281/The mixed method of random number generation_ A tutorial.txt
+/home/ryan/Local/CHUM/281/Meetings announced.txt
+/home/ryan/Local/CHUM/281/Summer institutes announced.txt
+/home/ryan/Local/CHUM/281/Building a data file from historical archives.txt
+/home/ryan/Local/CHUM/281/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/281/Call for papers.txt
+/home/ryan/Local/CHUM/400/The Times and the Man as Predictors of Emotion and Style in the Inaugural Addresses of U.S. Presidents.txt
+/home/ryan/Local/CHUM/400/Identifying Syntactic Ambiguities in Single-Parse Arabic Sentence.txt
+/home/ryan/Local/CHUM/400/Data Mining and Serial Documents.txt
+/home/ryan/Local/CHUM/400/Nexus and Stage_ Computer-Assisted Class Discussion and the First-Year English Course.txt
+/home/ryan/Local/CHUM/400/Computing Historical Consciousness. A Quantitative Inquiry into the Presence of the Past in Newspaper Texts.txt
+/home/ryan/Local/CHUM/400/Stephen Crane and the New-York Tribune_ A Case Study in Traditional and Non-Traditional Authorship Attribution.txt
+/home/ryan/Local/CHUM/400/Automatic Extraction of Collocations From Korean Text.txt
+/home/ryan/Local/CHUM/338/Determining literariness in interactive fiction.txt
+/home/ryan/Local/CHUM/338/Correction.txt
+/home/ryan/Local/CHUM/338/FINNMORF_ A computerized reference tool for students of Finnish morphology.txt
+/home/ryan/Local/CHUM/338/Review (hardware).txt
+/home/ryan/Local/CHUM/338/Software review.txt
+/home/ryan/Local/CHUM/338/Teaching a computer to speculate.txt
+/home/ryan/Local/CHUM/338/A computer-aided methodology for the analysis and classification of British-Canadian children's traditional singing games.txt
+/home/ryan/Local/CHUM/338/Review article.txt
+/home/ryan/Local/CHUM/338/Software review_001.txt
+/home/ryan/Local/CHUM/338/Book review.txt
+/home/ryan/Local/CHUM/399/The Challenge of Optical Music Recognition.txt
+/home/ryan/Local/CHUM/399/Integrating Linguistic Resources in TC through WSD.txt
+/home/ryan/Local/CHUM/399/Archaeological Data Models and Web Publication Using XML.txt
+/home/ryan/Local/CHUM/399/Finding Syntactic Structure in Unparsed Corpora The Gsearch Corpus Query System.txt
+/home/ryan/Local/CHUM/399/Sentential Count Rules for Arabic Language.txt
+/home/ryan/Local/CHUM/399/Computer-Based Authorship Attribution Without Lexical Measures.txt
+/home/ryan/Local/CHUM/399/Change-Point Analysis_ Elision in Euripides' Orestes.txt
+/home/ryan/Local/CHUM/399/Spanish Word Frequency_ A Historical Surprise.txt
+/home/ryan/Local/CHUM/321/Machine translation in the U.S.S.R..txt
+/home/ryan/Local/CHUM/321/Book reviews.txt
+/home/ryan/Local/CHUM/321/Evolutionary trends in poetic style_ The case of English metaphysical poetry.txt
+/home/ryan/Local/CHUM/321/Computer-assisted instruction as an integral part of a first-semester French curriculum.txt
+/home/ryan/Local/CHUM/321/The authorship of “A Lover's Complaint”_ An application of statistical stylometry to poetry.txt
+/home/ryan/Local/CHUM/321/Abstracts and brief notices.txt
+/home/ryan/Local/CHUM/265/Recent publications.txt
+/home/ryan/Local/CHUM/265/Directory of scholars active.txt
+/home/ryan/Local/CHUM/265/Music_ The photon printer and DARMS.txt
+/home/ryan/Local/CHUM/265/A computer-based census and local handlist system for Incunabula.txt
+/home/ryan/Local/CHUM/265/Formulas and syntax in old english poetry_ A computer study.txt
+/home/ryan/Local/CHUM/265/News and notes.txt
+/home/ryan/Local/CHUM/265/Structure and content of a Museum Data Bank.txt
+/home/ryan/Local/CHUM/265/Two routines for use in CAI language programs.txt
+/home/ryan/Local/CHUM/265/Conference report on the Belgian Symposium_ The computer in the human sciences.txt
+/home/ryan/Local/CHUM/265/Meetings announced.txt
+/home/ryan/Local/CHUM/265/New course announced.txt
+/home/ryan/Local/CHUM/265/A computer program that accepts common musical notation.txt
+/home/ryan/Local/CHUM/265/Call for papers.txt
+/home/ryan/Local/CHUM/362/Has classical music a fractal nature_ — A reanalysis.txt
+/home/ryan/Local/CHUM/362/Frame-based representation of philosophical systems using a knowledge engineering tool.txt
+/home/ryan/Local/CHUM/362/Pushing the envelope.txt
+/home/ryan/Local/CHUM/362/Project report_ the use of pilot to teach information technology concepts.txt
+/home/ryan/Local/CHUM/362/Courseware reviews.txt
+/home/ryan/Local/CHUM/362/An infinite-order solution to the Eddington problem or getting monkeys to type Shakespeare.txt
+/home/ryan/Local/CHUM/362/Toward a narra-topography_ A pilot study applied to Marguerite Duras' novelModerato Cantabile.txt
+/home/ryan/Local/CHUM/342/Software Reviews_004.txt
+/home/ryan/Local/CHUM/342/Software Reviews_003.txt
+/home/ryan/Local/CHUM/342/Unrooted trees revisited_ Topology and poetic data.txt
+/home/ryan/Local/CHUM/342/Software Reviews_001.txt
+/home/ryan/Local/CHUM/342/A model for intelligent computer assisted language instruction (MICALI).txt
+/home/ryan/Local/CHUM/342/An experiment with the federalist papers.txt
+/home/ryan/Local/CHUM/342/Software Reviews.txt
+/home/ryan/Local/CHUM/342/Exploring conscious imitation of style with ready-made software.txt
+/home/ryan/Local/CHUM/342/Software Reviews_002.txt
+/home/ryan/Local/CHUM/342/The identification and modelling of a percussion ‘language,’ and the Emergence of Musical Concepts in a machine-learning experimental set-up.txt
+/home/ryan/Local/CHUM/342/Hypertext in literary education, criticism, and scholarship.txt

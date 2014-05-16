@@ -1,0 +1,28 @@
+body {
+    font-family: Verdana, Verdana, "Sans Serif";
+    width: 1208px;
+    margin: 0 auto;
+    margin-top: 15px;
+}
+
+div.link {
+    display: inline-block;
+    margin: 20px 5% 0;
+}
+
+div.link img {
+    height: 300px;
+    width: 480px;
+}
+
+div.link p {
+    font-size: 18px;
+    text-decoration: none;
+}
+
+div.link p a {
+    text-decoration: underline;
+    color: black;
+    font-size: 13px;
+}
+

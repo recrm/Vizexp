@@ -1,0 +1,17 @@
+
+input {
+    width: 100%;
+}
+
+select {
+    width: 100%;
+}
+
+#tooltip {
+    fill: white;
+    stroke: black;
+    stroke-width: 2px;
+    opacity: 0.75;                
+}
+
+
