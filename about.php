@@ -1,9 +1,15 @@
 <!DOCTYPE html>
-<?php 
+<?php
 
 $i = $_GET['var'];
 
 #people
+$project_lead = array(
+    "words" => "Geoffrey Rockwell",
+    "dendro" => "Geoffrey Rockwell",
+    "network" => "Geoffrey Rockwell",
+    "hashtag" => "Geoffrey Rockwell",
+);
 $concept = array(
     "words" => null,
     "dendro" => null,
@@ -79,7 +85,10 @@ $text["hashtag"] = "
         </a>
         <?php echo $text[$i]; ?>
         <br>
-        <?php 
+        <?php
+        if ($project_lead[$i]) {
+            echo "<p class='name'>Project Lead: ".$project_lead[$i]."</p>\n";
+        }
         if ($concept[$i]) {
             echo "<p class='name'>Concept: ".$concept[$i]."</p>\n";
         }
@@ -93,7 +102,7 @@ $text["hashtag"] = "
         <footer>
             <hr class="footer">
             <img src="static/INKE.jpg" id='inke'>
-            <p class="foottext">Funding for the project genorously supllied by Just What do They Do (JWDTD) and Implementing New Knowledge Environments (INKE).</p>
+            <p class="foottext">Funding for the project generously supplied by Just What do They Do (JWDTD), Implementing New Knowledge Environments (INKE), and Social Science and Humanities Research Council of Canada (SSHRC). Source code for website as well as data analysis can be found here.</p>
         </footer>
     </body>
 </html>
