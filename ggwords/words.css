@@ -1,0 +1,98 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+p {
+    font-size: 13px;
+}
+
+#Graph {
+    border: 1px solid black;
+    border: 1px solid black;
+    float: left;
+    font-family: Verdana, Verdana, "Sans Serif";
+    font-size: 11px;
+}
+
+#popup {
+    position: absolute;
+    display: none;
+    top: 50px;
+    left: 50px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: white;
+    padding: 5px;
+}
+
+#popup h1 {
+    text-decoration: underline;
+    font-size: 15px;
+}
+
+img.ajax {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+body {
+    background-color: #FFFFFF;
+    margin: 15px;
+    font-family: sans-serif;
+}
+
+#Sidepanel {
+    float: left;
+    width: 150px;
+    border: 1px solid black;
+    border-left: 0;
+}
+
+#Sidepanel input {
+    text-align: center;
+    width: 96%;
+    margin-bottom: 7px;
+}
+
+#Sidepanel input[type=checkbox] {
+    width: auto;
+}
+
+#Sidepanel select {
+    width: 100%;
+    margin-bottom: 7px;
+}
+
+#choose {
+    height: 500px;
+}
+
+#tweets {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    border: 1px solid black;
+    overflow: auto;
+    display: none;
+}
+
+#tweets p {
+    margin: 5px;
+}
+
+#Sidepanel p {
+    padding-left: 10px;
+    padding-top: 7px;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+}

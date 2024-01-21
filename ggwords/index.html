@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>GamerGate Word Visualization</title>
+        <meta charset="UTF-8">
+        <link href="words.css" type="text/css" rel="stylesheet" />
+        <script src="js/d3.js" charset="UTF-8" ></script>
+        <script src="js/words.js" charset="UTF-8" ></script>
+    </head>
+    <body onload="eventLoad()">
+        <svg id='Graph' height='425' width='450' />
+        <section id='Sidepanel'>
+            <form id="Control" autocomplete="off">
+                <section>
+                    <p>Scale</p>
+                    <select id="scale">
+                        <option>Relative</option>
+                        <option>Fixed</option>
+                    </select>
+                </section>
+                <section id="parentRange">
+                    <p>Ymax</p>
+                    <input id="range" type="range" min=0 max=0.1 step=0.005>
+                </section>
+                <section>
+                    <p>Sort</p>
+                    <select id="order">
+                        <option>Frequency</option>
+                        <option>Alphabetical</option>
+                    </select>
+                </section>
+                <section>
+                    <p>Combined</p>
+                    <input id="combine" type="checkbox">
+                </section>
+
+                <select id="bins">
+                    <option>bin.1</option>
+                    <option>bin.2</option>
+                    <option>bin.3</option>
+                    <option>bin.4</option>
+                </select>
+
+                <select id="choose" multiple>
+                </select>
+            </form>
+        </section>
+        <section id="popup">
+            <h1></h1>
+            <p></p>
+            <p></p>
+        </section>
+        <section id="tweets">
+            <header>
+                <h1></h1>
+            </header>
+        </section>
+    </body>
+</html>

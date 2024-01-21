@@ -13,7 +13,6 @@ function findTool(num) {
     return small[0];
 }
 
-
 function filterData() {
     "use strict";
     var weight = d3.select("#controlWeight").property("value"),
@@ -55,7 +54,7 @@ function updatePapers() {
     para.enter().append("p");
     para.exit().remove();
     para.html(function (d) {
-        return "<i>"+d.anames+"</i>. CHum " + d.volume +"."+d.issue+" ("+d.year+")"; 
+        return "<i>"+d.anames+"</i>. CHum " + d.volume +"."+d.issue+" ("+d.year+")";
     });
 
     if (typeof tool === "undefined") {
@@ -112,7 +111,7 @@ function updateGraph() {
         .style("height", (window.innerHeight - PADDING - controlH - 38).toString() + "px");
 
     svg.attr("height", h)
-    
+
     //Links
     links.enter()
         .insert("line", ".node")
@@ -152,7 +151,7 @@ function updateGraph() {
         .classed("other", function (d) {
             return d.id !== SELECT[0] && other.indexOf(d.id) > -1;
         });
-        
+
     updateForce(data);
 }
 
@@ -162,44 +161,44 @@ function updateHist() {
     var dates = ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"],
         controlW = parseInt(d3.select("#control").style("width"), 10),
         w = window.innerWidth - 50 - controlW,
-    
+
         years = d3.time.scale()
             .domain([new Date("1964"), new Date("2006")])
             .range([25, w-25]),
         tickdata = ARTICLES.filter(function (article) {
                 return article["X" + SELECT[0]];
             }),
-        
+
         svg = d3.select("#hist")
             .attr("width", "100%")
             .attr("height", 50),
-        
+
         ticks = svg.selectAll(".timetick")
             .data(tickdata);
-            
+
     ticks.enter()
         .append("path")
         .attr("class", "timetick");
-        
+
     ticks.exit().remove();
-    
+
     ticks
         .attr('d', function (d) {
             var x = years(new Date(d.year, dates.indexOf(d.month)));
             return 'M ' + x + ' 25 l -3 -10 l 6 0 Z';
         });
-        
+
     //Date axis
     var axies = svg.selectAll("#xaxis")
         .data(SELECT);
-        
+
     axies.enter()
         .append("g")
         .attr("id", "xaxis")
         .attr("class", "axis");
-        
+
     axies.exit().remove();
-    
+
     axies.call(d3.svg.axis()
             .scale(years)
             .orient("bottom")
@@ -249,7 +248,7 @@ function eventLoad() {
     d3.select("#topcontrol")
         .on("input", eventInput)
         .on("change", eventChange);
-        
+
     d3.select("#reset")
         .on("click", eventClear);
 
@@ -285,7 +284,7 @@ function eventLoad() {
                     console.warn("There was an error.");
                 }
                 ARTICLES = meta.map(function (col) {
-                    
+
                     var found = {};
                     d3.keys(col).forEach(function (key) {
                         if (key.indexOf("X") > -1) {
@@ -296,8 +295,8 @@ function eventLoad() {
                             found[key] = parseInt(col[key], 10);
                         }
                     });
-                    
-                    
+
+
                     return found;
                 });
                 d3.select(".ajax").remove();
