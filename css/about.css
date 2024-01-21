@@ -14,6 +14,7 @@ p {
     font-size: 13px;
     line-height: 200%;
     text-indent: 50px;
+    padding-top: 5px;
 }
 
 p.name {

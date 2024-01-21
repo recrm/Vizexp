@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>TweetViz</title>
+        <script src="js/d3.js" charset="UTF-8" ></script>
+        <script src="js/share.js" charset="UTF-8" ></script>
+        <script src="js/hashtag.js" charset="UTF-8" ></script>
+        <link href="css/share.css" type="text/css" rel="stylesheet" />
+        <link href="css/hashtag.css" type="text/css" rel="stylesheet" />
+    </head>
+    <body onload="eventLoad()">
+        <h1>Tweet Visualization</h1>
+        <div id="Tweets">
+            <div id="buttons">
+                <p><output id="Indata">0</output> tweets in node.</p>
+                <p>Viewing Selection at <output id="top">0</output></p>
+                <button id="Tweetprev" type="button">Prev</button>
+                <button id="Tweetclear" type="button">Clear</button>
+                <button id="Tweetnext" type="button">Next</button>
+            </div>
+            <hr>
+            <div id="content"></div>
+            <hr>
+            <div id='tweetpanel'>
+                <form id="Tweetcontrol" autocomplete="off" action="#">
+                    <p>Search Users</p>
+                    <select id="Tweetusers"></select>
+<!--                    <p>Search Selection</p>
+                    <input id="Tweetsearch">-->
+                    <p>Search Hashtags</p>
+                    <select id="Tweethash"></select>
+                </form>
+            </div>
+        </div>
+        <svg id="Graph" />
+        <div id="Sidepanel">
+            <p>Viewing <output id="Inload" value="0">0</output> Tweets</p>
+            <form id="Phpcontrol" autocomplete="off" action="#">
+                <p>Start Date</p>
+                <input id="DateMin" type="date" value="2013-12-01">
+                <p>End Date</p>
+                <input id="DateMax" type="date" value="2013-12-15">
+                <p>Search Term</p>
+                <input id="Mysqlsearch" type="search" value="rob ford">
+                <input id="phpsubmit" type="submit" value="Loading...">
+            </form>
+            <hr>
+            <form id="Highcontrol" autocomplete="off">
+<!--                <p>ymax: <output id="Displayrange">0.1</output></p>-->
+<!--                <input id="Range" type="range" min="0.01" max="0.5" step="0.01" value="0.5">-->
+                <p>View Type</p>
+                <select id="ViewType">
+                    <option selected>Absolute</option>
+                    <option>Relative</option>
+                    <option>Sorted</option>
+                </select>
+            </form>
+            <p>Top Hashtags</p>
+            <select id="Datahash" multiple size="10"></select>
+        </div>
+    </body>
+</html>
