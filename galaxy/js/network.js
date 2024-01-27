@@ -1,7 +1,6 @@
 var app = {
     // Database api
-    url: "http://sandbox.htrc.illinois.edu:6001",
-    // url: undefined,
+    folder: "datasets",
 
     //d3 static scales.
     force: d3.layout.force(),
@@ -317,7 +316,7 @@ function updateContext() {
     // Only update if data is not already pulled.
     if (app.context.data === undefined) {
         var id = d3.select("main select.data").property("value"),
-            url = app.url + "/datasets/" + id + "/topics/" + app.context.id + "/token_counts";
+            url = app.folder + "/" + id + "/" + app.context.id + "/token_counts.json";
 
         d3.json(url, function (keywords) {
             app.context.data = keywords.token_counts.map(function (d) {
@@ -546,12 +545,12 @@ function updateDataset() {
     updatePlugins();
 
     // Load new data.
-    d3.json(app.url + "/datasets/" + id + "/topics/data?content=mean,center_dist,first_word,topic_dist,trend", function (topic_data) {
+    d3.json(app.folder + "/" + id + "/topics.json", function (topic_data) {
 
         // Collect data
         app.matrix = topic_data.topic_dist;
         var colors = d3.scale.category20(),
-            count = topic_data.first_word.length;
+            count = topic_data.first_key.length;
 
         // Add topics
         d3.range(0, count - 1).forEach(function (d) {
@@ -559,10 +558,10 @@ function updateDataset() {
                 id: d,
                 mean: topic_data.mean[d],
                 trend: topic_data.trend[d],
-                dist: topic_data.center_dist[d],
+                dist: topic_data.dist[d],
                 x: Math.random() * 1000,
                 y: Math.random() * 1000,
-                title: topic_data.first_word[d],
+                title: topic_data.first_key[d],
                 color: colors(d)
             });
         });
@@ -720,7 +719,7 @@ function eventLoad() {
         });
 
     // Upload dataset information.
-    d3.json(app.url + "/datasets", function(json) {
+    d3.json(app.folder + "/index.json", function(json) {
         var data = window.location.search;
         if (data) {
             data = data.split("=")[1];

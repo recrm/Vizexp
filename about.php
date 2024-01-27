@@ -102,9 +102,7 @@ $data = array(
         <h1>
             <?php echo $data[$i]["title"]; ?>
         </h1>
-        <a href="<?php echo $data[$i]["image"]; ?>">
-            <img src="static/<?php echo $data[$i]["image"]; ?>.png" id='tool'>
-        </a>
+        <img src="static/<?php echo $data[$i]["image"]; ?>.png" id='tool'>
         <p>
             <?php echo $data[$i]["text"]; ?>
         </p>

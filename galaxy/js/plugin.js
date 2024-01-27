@@ -195,7 +195,7 @@ function complexGraph(get_value, name, callback) {
         app.pins.forEach(function (pin) {
             if (data.value[pin.id] === undefined) {
                 data.value[pin.id] = "in progress";
-                d3.json(app.url + "/datasets/" + id + "/topics/" + pin.id + get_value, function (json) {
+                d3.json(app.folder + "/" + id + "/" + pin.id + get_value + ".json", function (json) {
                     data.value[pin.id] = json;
                     data.value[pin.id].self = pin;
                     update(area);
@@ -242,6 +242,9 @@ var updateDocuments = complexGraph("/doc_prominence", "documentviz", function (s
     }
 
     documents = data[app.selection.id].doc_prominence
+        .sort(function (x, y) {
+            return y.prominence - x.prominence;
+        })
         .slice(0, 30)
         .map(function (doc) {
             return {
@@ -250,8 +253,13 @@ var updateDocuments = complexGraph("/doc_prominence", "documentviz", function (s
                 title: doc.title,
                 author: doc.author,
                 values: app.pins.map(function (pin) {
+                    var prominence = 0;
+                    if (data.index[pin.id][doc.volid] !== undefined) {
+                        prominence = data.index[pin.id][doc.volid].prominence;
+                    }
+
                     return {
-                        value: data.index[pin.id][doc.volid].prominence,
+                        value: prominence,
                         color: data[pin.id].self.color
                     };
                 })
@@ -399,11 +407,11 @@ function simpleGraph(get_value, name) {
             data.value = "in progress";
             data.id = id;
 
-            d3.json(app.url + "/datasets/" + id + get_value, function (json) {
+            d3.json(app.folder + "/" + id + get_value + ".json", function (json) {
                 data.value = Object.keys(json)
-                    .filter(function (d) {
-                        return d > 0;
-                    })
+                    // .filter(function (d) {
+                    //     return d > 0;
+                    // })
                     .map(function (key) {
                         return {
                             date: new Date(key),
@@ -413,6 +421,7 @@ function simpleGraph(get_value, name) {
                             count: json[key]
                         };
                     });
+
                 timeGraph(svg, data.value);
             });
         } else {
