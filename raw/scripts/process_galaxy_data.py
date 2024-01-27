@@ -5,7 +5,7 @@ from collections import Counter
 from pathlib import Path
 
 
-root = Path("../data")
+root = Path("raw/data")
 
 
 def process_tokens(root):
@@ -119,7 +119,7 @@ def process_distance(root):
 
 
 def save_data(token_data, dataset, filename):
-    output_filename = Path("../../galaxy/datasets") / dataset / f"{filename}.json"
+    output_filename = Path("galaxy/datasets") / dataset / f"{filename}.json"
     os.makedirs(output_filename.parent, exist_ok=True)
 
     with open(output_filename, "w") as f:
